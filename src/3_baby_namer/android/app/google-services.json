@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "324755865336",
+    "firebase_url": "https://babynamer-e8888.firebaseio.com",
+    "project_id": "babynamer-e8888",
+    "storage_bucket": "babynamer-e8888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324755865336:android:5771dc3a04dd60a8",
+        "android_client_info": {
+          "package_name": "com.patevs.babynamer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324755865336-0ao5t9hjmk8glb3rki81kigt784oc6ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXw4Iq13B7hw4mEOZlLhdUKXjOQPanONA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
