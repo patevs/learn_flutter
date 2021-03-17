@@ -1,0 +1,53 @@
+
+# pubspec.yaml
+
+# Project details
+name: hyper_casual
+description: Hyper Casual game demo created using Flutter
+version: 0.0.2
+
+# Project environment
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+# Project Dependencies
+dependencies:
+  # Flutter sdk
+  flutter:
+    sdk: flutter
+  # CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+  # spinkit loading indictors
+  #flutter_spinkit: ^3.1.0
+  # flame game engine
+  flame: ^0.10.0
+
+# Project development dependencies
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  # Ensure that the Material Icons font is included
+  uses-material-design: true
+  # audio and image assets
+  assets:
+    - assets/images/background.png
+    - assets/images/dino.png
+    
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.io/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.io/assets-and-images/#from-packages
+
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.io/custom-fonts/#from-packages
+
+
+# EOF
+
