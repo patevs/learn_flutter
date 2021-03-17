@@ -1,12 +1,12 @@
 {
-  "name": "node-template",
-  "version": "1.14.0",
-  "description": "Repository Template for NodeJS Projects",
+  "name": "learn-flutter",
+  "version": "0.0.0",
+  "description": "Links, resources, and code related to my learning of the Flutter UI framework",
   "author": "PatEvs",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patevs/node-template.git"
+    "url": "git+https://github.com/patevs/learn_flutter.git"
   },
   "scripts": {
     "updates": "script-progress node ./bin/checkUpdates",
