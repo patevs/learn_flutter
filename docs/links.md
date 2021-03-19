@@ -8,6 +8,10 @@
 
 [](.)
 
+* [Bootstrap into Dart](https://flutter.dev/docs/resources/bootstrap-into-dart)
+
+[](.)
+
 * [Material Design](https://material.io/design/)
 * [Flutter by Example](https://flutterbyexample.com/)
 * [Flutter Packages](https://pub.dev/flutter)
