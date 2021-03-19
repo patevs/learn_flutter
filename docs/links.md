@@ -11,16 +11,17 @@
 * [Material Design](https://material.io/design/)
 * [Flutter by Example](https://flutterbyexample.com/)
 * [Flutter Packages](https://pub.dev/flutter)
+
+[](.)
+
 * [Layout Cheatsheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
+* [Flutter's Rendering Pipeline](https://www.youtube.com/watch?v=UUfXWzp0-DU)
 
 ---
 
 * [`awesome-flutter`](https://github.com/Solido/awesome-flutter) Curated list of the best Flutter libraries, tools, tutorials, articles and more.
 * [`awesomefluttertips`](https://github.com/erluxman/awesomefluttertips) Flutter tips and tricks.
 * [`awesome-flutter-packages`](https://github.com/leisim/awesome-flutter-packages) Curated list of awesome Flutter packages.
-
-[](.)
-
 * [`flutter_roadmap`](https://github.com/olexale/flutter_roadmap) Highly Subjective Roadmap to Flutter Development.
 
 ---
