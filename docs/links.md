@@ -24,7 +24,25 @@
 * [`awesome-flutter-packages`](https://github.com/leisim/awesome-flutter-packages) Curated list of awesome Flutter packages.
 * [`flutter_roadmap`](https://github.com/olexale/flutter_roadmap) Highly Subjective Roadmap to Flutter Development.
 
-[](.)
+---
+
+## Tools and Utilities
+
+* [DevTools](https://flutter.dev/docs/development/tools/devtools/overview)
+
+  ```bash
+  # Install with pub
+  $ pub global activate devtools
+  # Install with flutter
+  $ flutter pub global activate devtools
+  ```
+
+  ```bash
+  # Run with pub
+  $ pub global run devtools   # If you have `pub` on your path.
+  # Run with flutter
+  $ flutter pub global run devtools   # If you have `flutter` on your path.
+  ```
 
 * [`very_good_cli`](https://github.com/VeryGoodOpenSource/very_good_cli) A Very Good Command Line Interface for Dart.
 
