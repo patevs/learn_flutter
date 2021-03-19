@@ -24,4 +24,13 @@
 * [`awesome-flutter-packages`](https://github.com/leisim/awesome-flutter-packages) Curated list of awesome Flutter packages.
 * [`flutter_roadmap`](https://github.com/olexale/flutter_roadmap) Highly Subjective Roadmap to Flutter Development.
 
+[](.)
+
+* [`very_good_cli`](https://github.com/VeryGoodOpenSource/very_good_cli) A Very Good Command Line Interface for Dart.
+
+  ```bash
+  # Installation
+  $ dart pub global activate very_good_cli
+  ```
+
 ---
