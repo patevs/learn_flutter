@@ -19,4 +19,8 @@
 * [`awesomefluttertips`](https://github.com/erluxman/awesomefluttertips) Flutter tips and tricks.
 * [`awesome-flutter-packages`](https://github.com/leisim/awesome-flutter-packages) Curated list of awesome Flutter packages.
 
+[](.)
+
+* [`flutter_roadmap`](https://github.com/olexale/flutter_roadmap) Highly Subjective Roadmap to Flutter Development.
+
 ---
