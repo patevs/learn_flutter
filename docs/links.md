@@ -14,3 +14,7 @@
 * [Layout Cheatsheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
 
 ---
+
+* [`awesome-flutter`](https://github.com/Solido/awesome-flutter) Curated list of the best Flutter libraries, tools, tutorials, articles and more.
+
+---
