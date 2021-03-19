@@ -17,5 +17,6 @@
 
 * [`awesome-flutter`](https://github.com/Solido/awesome-flutter) Curated list of the best Flutter libraries, tools, tutorials, articles and more.
 * [`awesomefluttertips`](https://github.com/erluxman/awesomefluttertips) Flutter tips and tricks.
+* [`awesome-flutter-packages`](https://github.com/leisim/awesome-flutter-packages) Curated list of awesome Flutter packages.
 
 ---
