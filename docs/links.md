@@ -10,6 +10,7 @@
 
 * [Bootstrap into Dart](https://flutter.dev/docs/resources/bootstrap-into-dart)
 * [Dart Language Tour](https://dart.dev/guides/language/language-tour)
+* [The `pubspec` File](https://dart.dev/tools/pub/pubspec)
 
 [](.)
 
