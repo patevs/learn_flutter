@@ -5,6 +5,7 @@
 * [Documentation](https://flutter.dev/docs)
   * [Windows Install](https://flutter.io/docs/get-started/install/windows)
   * [Architectural Overview](https://flutter.dev/docs/resources/architectural-overview)
+* [Packages and Plugins](https://flutter.dev/docs/development/packages-and-plugins)
 
 [](.)
 
