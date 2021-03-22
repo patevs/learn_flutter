@@ -29,6 +29,10 @@
 * [`awesome-flutter-packages`](https://github.com/leisim/awesome-flutter-packages) Curated list of awesome Flutter packages.
 * [`flutter_roadmap`](https://github.com/olexale/flutter_roadmap) Highly Subjective Roadmap to Flutter Development.
 
+[](.)
+
+* [`dio`](https://github.com/flutterchina/dio) Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc.
+
 ---
 
 ## Tools and Utilities
