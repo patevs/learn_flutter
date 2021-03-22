@@ -32,6 +32,7 @@
 [](.)
 
 * [`dio`](https://github.com/flutterchina/dio) Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc.
+* [`json_serializable.dart`](https://github.com/google/json_serializable.dart) Generates utilities to aid in serializing to/from JSON.
 
 ---
 
