@@ -65,4 +65,6 @@
   $ dart pub global activate very_good_cli
   ```
 
+* [`flutter_launcher_icons`](https://github.com/fluttercommunity/flutter_launcher_icons) Simplifies the task of updating your Flutter app's launcher icon.
+
 ---
