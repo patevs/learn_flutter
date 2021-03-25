@@ -17,6 +17,7 @@
 [](.)
 
 * [Material Design](https://material.io/design/)
+* [Flutter Gallery](https://gallery.flutter.dev/#/)
 * [Flutter by Example](https://flutterbyexample.com/)
 * [Flutter Packages](https://pub.dev/flutter)
 
