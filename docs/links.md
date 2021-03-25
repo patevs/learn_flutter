@@ -9,6 +9,12 @@
 
 [](.)
 
+* [Flutter Gallery](https://gallery.flutter.dev/#/)
+* [Flutter by Example](https://flutterbyexample.com/)
+* [Flutter Packages](https://pub.dev/flutter)
+
+[](.)
+
 * [Bootstrap into Dart](https://flutter.dev/docs/resources/bootstrap-into-dart)
 * [Dart Language Tour](https://dart.dev/guides/language/language-tour)
 * [The `pubspec` File](https://dart.dev/tools/pub/pubspec)
@@ -17,12 +23,6 @@
 [](.)
 
 * [Material Design](https://material.io/design/)
-* [Flutter Gallery](https://gallery.flutter.dev/#/)
-* [Flutter by Example](https://flutterbyexample.com/)
-* [Flutter Packages](https://pub.dev/flutter)
-
-[](.)
-
 * [Layout Cheatsheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
 * [Flutter's Rendering Pipeline](https://www.youtube.com/watch?v=UUfXWzp0-DU)
 
