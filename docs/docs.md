@@ -2,6 +2,10 @@
 
 ---
 
+## Links and Resources
+
+### Flutter
+
 * [Documentation](https://flutter.dev/docs)
   * [Windows Install](https://flutter.io/docs/get-started/install/windows)
   * [Architectural Overview](https://flutter.dev/docs/resources/architectural-overview)
@@ -12,21 +16,23 @@
 * [Flutter Gallery](https://gallery.flutter.dev/#/)
 * [Flutter by Example](https://flutterbyexample.com/)
 * [Flutter Packages](https://pub.dev/flutter)
+* [Layout Cheatsheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
+* [Flutter's Rendering Pipeline](https://www.youtube.com/watch?v=UUfXWzp0-DU)
 
-[](.)
+### Dart
 
 * [Bootstrap into Dart](https://flutter.dev/docs/resources/bootstrap-into-dart)
 * [Dart Language Tour](https://dart.dev/guides/language/language-tour)
 * [The `pubspec` File](https://dart.dev/tools/pub/pubspec)
   * [Package Dependencies](https://dart.dev/tools/pub/dependencies)
 
-[](.)
+### Material Design
 
 * [Material Design](https://material.io/design/)
-* [Layout Cheatsheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
-* [Flutter's Rendering Pipeline](https://www.youtube.com/watch?v=UUfXWzp0-DU)
 
 ---
+
+## Awesome Lists and Projects
 
 * [`awesome-flutter`](https://github.com/Solido/awesome-flutter) Curated list of the best Flutter libraries, tools, tutorials, articles and more.
 * [`awesomefluttertips`](https://github.com/erluxman/awesomefluttertips) Flutter tips and tricks.
@@ -37,7 +43,9 @@
 
 * [`Flutter-AI-Rubik-cube-Solver`](https://github.com/brinesoftwares/Flutter-AI-Rubik-cube-Solver) Flutter-Python rubiks cube solver.
 
-[](.)
+---
+
+## Packages and Plugins
 
 * [`dio`](https://github.com/flutterchina/dio) Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc.
 * [`json_serializable.dart`](https://github.com/google/json_serializable.dart) Generates utilities to aid in serializing to/from JSON.
