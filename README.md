@@ -18,7 +18,7 @@ Release versions of Flutter apps are compiled with [ahead-of-time (AOT) compilat
 
 ## Documentation
 
-* [Links & Resources](./docs/links.md)
+* [Links & Resources](./docs/docs.md)
 
 ---
 
@@ -29,7 +29,7 @@ Release versions of Flutter apps are compiled with [ahead-of-time (AOT) compilat
 ├── bin
 │   └── checkUpdates.js  # Check for outdated npm modules
 ├── docs                 # Documentation
-│   └── links.md         # Links & resources
+│   └── docs.md
 ├── .editorconfig        # Editor configuration
 ├── .gitignore           # Git ignore rules
 ├── .np-config.json      # NPM publish (np) configuration
