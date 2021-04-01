@@ -23,6 +23,7 @@
 
 * [Bootstrap into Dart](https://flutter.dev/docs/resources/bootstrap-into-dart)
 * [Dart Language Tour](https://dart.dev/guides/language/language-tour)
+* [Effective Dart](https://dart.dev/guides/language/effective-dart)
 * [Dart Cheatsheet](https://dart.dev/codelabs/dart-cheatsheet)
 * [The `pubspec` File](https://dart.dev/tools/pub/pubspec)
   * [Package Dependencies](https://dart.dev/tools/pub/dependencies)
