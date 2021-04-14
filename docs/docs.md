@@ -85,6 +85,10 @@
   $ flutter pub global run devtools   # If you have `flutter` on your path.
   ```
 
+* [`fvm`](https://github.com/leoafarias/fvm) Flutter Version Management: A simple CLI to manage Flutter SDK versions.
+
+[](.)
+
 * [`very_good_cli`](https://github.com/VeryGoodOpenSource/very_good_cli) A Very Good Command Line Interface for Dart.
 
   ```bash
