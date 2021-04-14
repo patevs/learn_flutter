@@ -49,6 +49,7 @@
 
 * [`flutter_architecture_samples`](https://github.com/brianegan/flutter_architecture_samples) TodoMVC for Flutter!
 * [`Best-Flutter-UI-Templates`](https://github.com/mitesh77/Best-Flutter-UI-Templates)
+* [`Flutter-UI-Kit`](https://github.com/iampawan/Flutter-UI-Kit) Flutter app for collection of UI in a UIKit.
 
 [](.)
 
