@@ -32,6 +32,7 @@
 
 * [Dart Cheatsheet](https://dart.dev/codelabs/dart-cheatsheet)
 * [Dart Language Cheatsheet](https://dart.dev/guides/language/cheatsheet)
+* [`dart pub global`](https://dart.dev/tools/pub/cmd/pub-global)
 
 ### Material Design
 
