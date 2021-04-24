@@ -71,6 +71,7 @@
 
 [](.)
 
+* [`flutter_launcher_icons`](https://github.com/fluttercommunity/flutter_launcher_icons) Simplifies the task of updating your Flutter app's launcher icon.
 * [`flutter_native_splash`](https://github.com/jonbhanson/flutter_native_splash) Automatically generates native code for adding splash screens in Android and iOS. Customize with specific platform, background color and splash image.
 * [`wiredash-sdk`](https://github.com/wiredashio/wiredash-sdk) Interactive user feedback tool for Flutter 🎉
 
@@ -105,7 +106,5 @@
   # Installation
   $ dart pub global activate very_good_cli
   ```
-
-* [`flutter_launcher_icons`](https://github.com/fluttercommunity/flutter_launcher_icons) Simplifies the task of updating your Flutter app's launcher icon.
 
 ---
