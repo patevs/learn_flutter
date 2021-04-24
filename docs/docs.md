@@ -72,6 +72,7 @@
 [](.)
 
 * [`flutter_native_splash`](https://github.com/jonbhanson/flutter_native_splash) Automatically generates native code for adding splash screens in Android and iOS. Customize with specific platform, background color and splash image.
+* [`wiredash-sdk`](https://github.com/wiredashio/wiredash-sdk) Interactive user feedback tool for Flutter 🎉
 
 ---
 
