@@ -9,6 +9,7 @@
 * [Documentation](https://flutter.dev/docs)
   * [Windows Install](https://flutter.io/docs/get-started/install/windows)
   * [Architectural Overview](https://flutter.dev/docs/resources/architectural-overview)
+  * [API Reference](https://api.flutter.dev/index.html)
 * [Packages and Plugins](https://flutter.dev/docs/development/packages-and-plugins)
   * [Flutter Packages](https://pub.dev/flutter)
 
