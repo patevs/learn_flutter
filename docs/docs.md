@@ -10,13 +10,12 @@
   * [Windows Install](https://flutter.io/docs/get-started/install/windows)
   * [Architectural Overview](https://flutter.dev/docs/resources/architectural-overview)
 * [Packages and Plugins](https://flutter.dev/docs/development/packages-and-plugins)
+  * [Flutter Packages](https://pub.dev/flutter)
 
 [](.)
 
-* [Flutter Examples](http://flutterexamples.com/)
-* [Flutter Gallery](https://gallery.flutter.dev/#/)
-* [Flutter by Example](https://flutterbyexample.com/)
-* [Flutter Packages](https://pub.dev/flutter)
+* [Flutter Examples](http://flutterexamples.com/) An ultimate cheatbook of curated designs.
+* [Flutter by Example](https://flutterbyexample.com/) A complete Dart and Flutter tutorial.
 * [Layout Cheatsheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
 * [Flutter's Rendering Pipeline](https://www.youtube.com/watch?v=UUfXWzp0-DU)
 
@@ -52,6 +51,7 @@
 * [`Best-Flutter-UI-Templates`](https://github.com/mitesh77/Best-Flutter-UI-Templates)
 * [`flutter_architecture_samples`](https://github.com/brianegan/flutter_architecture_samples) TodoMVC for Flutter!
 * [`Flutter-UI-Kit`](https://github.com/iampawan/Flutter-UI-Kit) Flutter app for collection of UI in a UIKit.
+* [`gallery`](https://github.com/flutter/gallery) Flutter Gallery is a resource to help developers evaluate and use Flutter.
 
 [](.)
 
