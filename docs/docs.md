@@ -56,6 +56,10 @@
 
 [](.)
 
+* [`flutter-boilerplate-project`](https://github.com/zubairehman/flutter-boilerplate-project) A boilerplate project created in flutter using MobX and Provider.
+
+[](.)
+
 * [`flutter_roadmap`](https://github.com/olexale/flutter_roadmap) Highly Subjective Roadmap to Flutter Development.
 * [`learn-flutter`](https://github.com/dwyl/learn-flutter) 🦋 Learn how to use Flutter to Build Cross-platform Native Mobile Apps.
 
