@@ -57,6 +57,7 @@
 [](.)
 
 * [`flutter-boilerplate-project`](https://github.com/zubairehman/flutter-boilerplate-project) A boilerplate project created in flutter using MobX and Provider.
+* [`Flutter-Responsive-Admin-Panel-or-Dashboard`](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) Responsive Admin Panel or Dashboard using Flutter.
 
 [](.)
 
