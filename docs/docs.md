@@ -80,6 +80,7 @@
 * [`flutter_staggered_animations`](https://github.com/mobiten/flutter_staggered_animations) Easily add staggered animations to your ListView, GridView, Column and Row children.
 * [`flutter_staggered_grid_view`](https://github.com/letsar/flutter_staggered_grid_view) Staggered grid view which supports multiple columns with rows of varying sizes.
 * [`modal_bottom_sheet`](https://github.com/jamesblasco/modal_bottom_sheet) Create advanced modal bottom sheets.
+* [`flushbar`](https://github.com/AndreHaueisen/flushbar) Customize user notifications.
 
 [](.)
 
