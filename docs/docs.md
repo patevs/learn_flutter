@@ -85,6 +85,7 @@
 * [`fancy_bottom_navigation`](https://github.com/tunitowen/fancy_bottom_navigation) Fancy bottom navigation bar.
 * [`timeline_tile`](https://github.com/JHBitencourt/timeline_tile) Build customisable timelines.
 * [`timelines`](https://github.com/chulwoo-park/timelines) Powerful & easy to use timeline package for Flutter! 🚀
+* [`eva_icons_flutter`](https://github.com/piyushmaurya23/eva_icons_flutter) More than 480 beautifully crafted Open Source icons for common actions and items.
 
 [](.)
 
