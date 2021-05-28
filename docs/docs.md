@@ -83,6 +83,7 @@
 * [`flushbar`](https://github.com/AndreHaueisen/flushbar) Customize user notifications.
 * [`bottom_navy_bar`](https://github.com/pedromassango/bottom_navy_bar) Beautiful and animated bottom navigation.
 * [`fancy_bottom_navigation`](https://github.com/tunitowen/fancy_bottom_navigation) Fancy bottom navigation bar.
+* [`timeline_tile`](https://github.com/JHBitencourt/timeline_tile) Build customisable timelines.
 
 [](.)
 
