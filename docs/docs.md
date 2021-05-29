@@ -92,6 +92,7 @@
 * [`timeline_tile`](https://github.com/JHBitencourt/timeline_tile) Build customisable timelines.
 * [`timelines`](https://github.com/chulwoo-park/timelines) Powerful & easy to use timeline package for Flutter! 🚀
 * [`eva_icons_flutter`](https://github.com/piyushmaurya23/eva_icons_flutter) More than 480 beautifully crafted Open Source icons for common actions and items.
+* [`giffy_dialog`](https://github.com/xsahil03x/giffy_dialog) A beautiful and custom alert dialog.
 
 [](.)
 
