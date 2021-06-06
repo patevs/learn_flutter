@@ -97,6 +97,7 @@
 [](.)
 
 * [`auto_size_text`](https://github.com/leisim/auto_size_text) Automatically resizes text to fit perfectly within its bounds.
+* [`dartx`](https://github.com/leisim/dartx) Collection of useful static extension methods.
 
 [](.)
 
