@@ -65,6 +65,7 @@
 
 * [`flutter_roadmap`](https://github.com/olexale/flutter_roadmap) Highly Subjective Roadmap to Flutter Development.
 * [`learn-flutter`](https://github.com/dwyl/learn-flutter) 🦋 Learn how to use Flutter to Build Cross-platform Native Mobile Apps.
+* [`Flutter-Course-Resources`](https://github.com/londonappbrewery/Flutter-Course-Resources) The Complete Flutter Development Bootcamp.
 
 [](.)
 
