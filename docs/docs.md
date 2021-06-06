@@ -98,6 +98,7 @@
 [](.)
 
 * [`auto_size_text`](https://github.com/leisim/auto_size_text) Automatically resizes text to fit perfectly within its bounds.
+* [`flutter_horizontal_data_table`](https://github.com/MayLau-CbL/flutter_horizontal_data_table) Fixed Column Horizontal Datatable Widget.
 * [`dartx`](https://github.com/leisim/dartx) Collection of useful static extension methods.
 * [`flutter_gen`](https://github.com/FlutterGen/flutter_gen) The Flutter code generator for your assets, fonts, colors, etc.
 
