@@ -87,6 +87,7 @@
 [](.)
 
 * [`azlistview`](https://github.com/flutterchina/azlistview) Sticky headers & index ListView.
+* [`NumberPicker`](https://github.com/MarcinusX/NumberPicker) Choose an integer or decimal number by scrolling spinners.
 * [`modal_bottom_sheet`](https://github.com/jamesblasco/modal_bottom_sheet) Create advanced modal bottom sheets.
 * [`flushbar`](https://github.com/AndreHaueisen/flushbar) Customize user notifications.
 * [`bottom_navy_bar`](https://github.com/pedromassango/bottom_navy_bar) Beautiful and animated bottom navigation.
