@@ -83,9 +83,13 @@
 * [`flutter_staggered_animations`](https://github.com/mobiten/flutter_staggered_animations) Easily add staggered animations to your ListView, GridView, Column and Row children.
 * [`flutter_staggered_grid_view`](https://github.com/letsar/flutter_staggered_grid_view) Staggered grid view which supports multiple columns with rows of varying sizes.
 * [`flutter_infinite_listview`](https://github.com/fluttercommunity/flutter_infinite_listview) ListView with items that can be scrolled infinitely in both directions.
+* [`flutter_horizontal_data_table`](https://github.com/MayLau-CbL/flutter_horizontal_data_table) Fixed Column Horizontal Datatable Widget.
+* [`flutter_launcher_icons`](https://github.com/fluttercommunity/flutter_launcher_icons) Simplifies the task of updating your Flutter app's launcher icon.
+* [`flutter_native_splash`](https://github.com/jonbhanson/flutter_native_splash) Automatically generates native code for adding splash screens in Android and iOS. Customize with specific platform, background color and splash image.
 
 [](.)
 
+* [`auto_size_text`](https://github.com/leisim/auto_size_text) Automatically resizes text to fit perfectly within its bounds.
 * [`azlistview`](https://github.com/flutterchina/azlistview) Sticky headers & index ListView.
 * [`NumberPicker`](https://github.com/MarcinusX/NumberPicker) Choose an integer or decimal number by scrolling spinners.
 * [`modal_bottom_sheet`](https://github.com/jamesblasco/modal_bottom_sheet) Create advanced modal bottom sheets.
@@ -99,15 +103,8 @@
 
 [](.)
 
-* [`auto_size_text`](https://github.com/leisim/auto_size_text) Automatically resizes text to fit perfectly within its bounds.
-* [`flutter_horizontal_data_table`](https://github.com/MayLau-CbL/flutter_horizontal_data_table) Fixed Column Horizontal Datatable Widget.
 * [`dartx`](https://github.com/leisim/dartx) Collection of useful static extension methods.
 * [`flutter_gen`](https://github.com/FlutterGen/flutter_gen) The Flutter code generator for your assets, fonts, colors, etc.
-
-[](.)
-
-* [`flutter_launcher_icons`](https://github.com/fluttercommunity/flutter_launcher_icons) Simplifies the task of updating your Flutter app's launcher icon.
-* [`flutter_native_splash`](https://github.com/jonbhanson/flutter_native_splash) Automatically generates native code for adding splash screens in Android and iOS. Customize with specific platform, background color and splash image.
 * [`wiredash-sdk`](https://github.com/wiredashio/wiredash-sdk) Interactive user feedback tool for Flutter 🎉
 
 ---
