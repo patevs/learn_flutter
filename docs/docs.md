@@ -80,6 +80,7 @@
 
 [](.)
 
+* [`flutter_screenutil`](https://github.com/OpenFlutter/flutter_screenutil) Plugin for adapting screen and font size.
 * [`flutter_staggered_animations`](https://github.com/mobiten/flutter_staggered_animations) Easily add staggered animations to your ListView, GridView, Column and Row children.
 * [`flutter_staggered_grid_view`](https://github.com/letsar/flutter_staggered_grid_view) Staggered grid view which supports multiple columns with rows of varying sizes.
 * [`flutter_infinite_listview`](https://github.com/fluttercommunity/flutter_infinite_listview) ListView with items that can be scrolled infinitely in both directions.
