@@ -37,6 +37,7 @@
 ### Material Design
 
 * [Material Design](https://material.io/design/)
+* [Material Icons](https://fonts.google.com/icons)
 
 ---
 
