@@ -111,6 +111,7 @@
 [](.)
 
 * [`dartx`](https://github.com/leisim/dartx) Collection of useful static extension methods.
+* [`dart-code-metrics`](https://github.com/dart-code-checker/dart-code-metrics) Static analysis tool that helps you analyse and improve your code quality.
 * [`flutter_gen`](https://github.com/FlutterGen/flutter_gen) The Flutter code generator for your assets, fonts, colors, etc.
 * [`wiredash-sdk`](https://github.com/wiredashio/wiredash-sdk) Interactive user feedback tool for Flutter 🎉
 
