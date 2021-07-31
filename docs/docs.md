@@ -93,6 +93,7 @@
 * [`flutter_launcher_icons`](https://github.com/fluttercommunity/flutter_launcher_icons) Simplifies the task of updating your Flutter app's launcher icon.
 * [`flutter_native_splash`](https://github.com/jonbhanson/flutter_native_splash) Automatically generates native code for adding splash screens in Android and iOS. Customize with specific platform, background color and splash image.
 * [`flutter_sticky_and_expandable_list`](https://github.com/tp7309/flutter_sticky_and_expandable_list) A grouped list that supports expanded/collapsed sections and sticky headers
+* [`flutter_ume`](https://github.com/bytedance/flutter_ume) UME is an in-app debug kits platform for Flutter apps.
 
 [](.)
 
