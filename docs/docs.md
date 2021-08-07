@@ -56,6 +56,7 @@
 * [`flutter_architecture_samples`](https://github.com/brianegan/flutter_architecture_samples) TodoMVC for Flutter!
 * [`Flutter-UI-Kit`](https://github.com/iampawan/Flutter-UI-Kit) Flutter app for collection of UI in a UIKit.
 * [`gallery`](https://github.com/flutter/gallery) Flutter Gallery is a resource to help developers evaluate and use Flutter.
+* [`flutter_apps`](https://github.com/pacifio/flutter_apps) A collection of beautiful apps using flutter.
 
 [](.)
 
