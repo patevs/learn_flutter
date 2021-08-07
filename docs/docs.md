@@ -90,10 +90,7 @@
 * [`flutter_staggered_grid_view`](https://github.com/letsar/flutter_staggered_grid_view) Staggered grid view which supports multiple columns with rows of varying sizes.
 * [`flutter_infinite_listview`](https://github.com/fluttercommunity/flutter_infinite_listview) ListView with items that can be scrolled infinitely in both directions.
 * [`flutter_horizontal_data_table`](https://github.com/MayLau-CbL/flutter_horizontal_data_table) Fixed Column Horizontal Datatable Widget.
-* [`flutter_launcher_icons`](https://github.com/fluttercommunity/flutter_launcher_icons) Simplifies the task of updating your Flutter app's launcher icon.
-* [`flutter_native_splash`](https://github.com/jonbhanson/flutter_native_splash) Automatically generates native code for adding splash screens in Android and iOS. Customize with specific platform, background color and splash image.
 * [`flutter_sticky_and_expandable_list`](https://github.com/tp7309/flutter_sticky_and_expandable_list) A grouped list that supports expanded/collapsed sections and sticky headers
-* [`flutter_ume`](https://github.com/bytedance/flutter_ume) UME is an in-app debug kits platform for Flutter apps.
 
 [](.)
 
@@ -114,13 +111,18 @@
 [](.)
 
 * [`dartx`](https://github.com/leisim/dartx) Collection of useful static extension methods.
-* [`dart-code-metrics`](https://github.com/dart-code-checker/dart-code-metrics) Static analysis tool that helps you analyse and improve your code quality.
 * [`flutter_gen`](https://github.com/FlutterGen/flutter_gen) The Flutter code generator for your assets, fonts, colors, etc.
 * [`wiredash-sdk`](https://github.com/wiredashio/wiredash-sdk) Interactive user feedback tool for Flutter 🎉
 
 ---
 
 ## Tools and Utilities
+
+* [`dart-code-metrics`](https://github.com/dart-code-checker/dart-code-metrics) Static analysis tool that helps you analyse and improve your code quality.
+* [`flutter_launcher_icons`](https://github.com/fluttercommunity/flutter_launcher_icons) Simplifies the task of updating your Flutter app's launcher icon.
+* [`flutter_native_splash`](https://github.com/jonbhanson/flutter_native_splash) Automatically generates native code for adding splash screens in Android and iOS. Customize with specific platform, background color and splash image.
+
+[](.)
 
 * [DevTools](https://flutter.dev/docs/development/tools/devtools/overview)
 
@@ -141,6 +143,7 @@
 * [`fvm`](https://github.com/leoafarias/fvm) Flutter Version Management: A simple CLI to manage Flutter SDK versions.
 * [`sidekick`](https://github.com/leoafarias/sidekick) A simple app to make Flutter development more delightful.
 * [`flutter_device_preview`](https://github.com/aloisdeniel/flutter_device_preview) Approximate how your app looks and performs on another device.
+* [`flutter_ume`](https://github.com/bytedance/flutter_ume) UME is an in-app debug kits platform for Flutter apps.
 
 [](.)
 
