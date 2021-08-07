@@ -109,6 +109,7 @@
 * [`eva_icons_flutter`](https://github.com/piyushmaurya23/eva_icons_flutter) More than 480 beautifully crafted Open Source icons for common actions and items.
 * [`giffy_dialog`](https://github.com/xsahil03x/giffy_dialog) A beautiful and custom alert dialog.
 * [`folding_cell`](https://github.com/faob-dev/folding_cell) Simple folding cell widget, pass `frontWidget` and `innerWidget` to fold and unfold.
+* [`route_transitions`](https://github.com/pacifio/route_transitions) A flutter library containing useful animations and friendly functions for routing 🚦
 
 [](.)
 
