@@ -108,6 +108,7 @@
 * [`giffy_dialog`](https://github.com/xsahil03x/giffy_dialog) A beautiful and custom alert dialog.
 * [`folding_cell`](https://github.com/faob-dev/folding_cell) Simple folding cell widget, pass `frontWidget` and `innerWidget` to fold and unfold.
 * [`route_transitions`](https://github.com/pacifio/route_transitions) A flutter library containing useful animations and friendly functions for routing 🚦
+* [`titled_navigation_bar`](https://github.com/pedromassango/titled_navigation_bar) A beautiful and simple bottom navigation bar with smooth animation when switching selected item.
 
 [](.)
 
