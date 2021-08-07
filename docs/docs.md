@@ -118,6 +118,7 @@
 
 ## Tools and Utilities
 
+* [`dartdoc`](https://github.com/dart-lang/dartdoc) API documentation tool for Dart.
 * [`dart-code-metrics`](https://github.com/dart-code-checker/dart-code-metrics) Static analysis tool that helps you analyse and improve your code quality.
 * [`flutter_launcher_icons`](https://github.com/fluttercommunity/flutter_launcher_icons) Simplifies the task of updating your Flutter app's launcher icon.
 * [`flutter_native_splash`](https://github.com/jonbhanson/flutter_native_splash) Automatically generates native code for adding splash screens in Android and iOS. Customize with specific platform, background color and splash image.
