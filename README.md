@@ -26,7 +26,7 @@ Release versions of Flutter apps are compiled with [ahead-of-time (AOT) compilat
 
 ```md
 .
-├── bin
+├── bin                  # Utility scripts
 │   └── checkUpdates.js  # Check for outdated NPM modules
 ├── docs                 # Documentation
 │   └── docs.md
