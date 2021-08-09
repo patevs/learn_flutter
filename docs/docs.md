@@ -17,6 +17,7 @@
 [](.)
 
 * [Create a Floating App Bar](https://flutter.dev/docs/cookbook/lists/floating-app-bar)
+* [Understanding Constraints](https://flutter.dev/docs/development/ui/layout/constraints)
 * [Futures and Error Handling](https://dart.dev/guides/libraries/futures-error-handling)
 
 [](.)
