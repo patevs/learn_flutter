@@ -16,12 +16,15 @@
 
 [](.)
 
+* [Create a Floating App Bar](https://flutter.dev/docs/cookbook/lists/floating-app-bar)
+* [Futures and Error Handling](https://dart.dev/guides/libraries/futures-error-handling)
+
+[](.)
+
 * [Flutter Examples](http://flutterexamples.com/) An ultimate cheatbook of curated designs.
 * [Flutter by Example](https://flutterbyexample.com/) A complete Dart and Flutter tutorial.
 * [Layout Cheatsheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
 * [Flutter's Rendering Pipeline](https://www.youtube.com/watch?v=UUfXWzp0-DU)
-* [Create a Floating App Bar](https://flutter.dev/docs/cookbook/lists/floating-app-bar)
-* [Futures and Error Handling](https://dart.dev/guides/libraries/futures-error-handling)
 
 ### Dart
 
