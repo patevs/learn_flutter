@@ -12,6 +12,7 @@
   * [API Reference](https://api.flutter.dev/index.html)
 * [Packages and Plugins](https://flutter.dev/docs/development/packages-and-plugins)
   * [Flutter Packages](https://pub.dev/flutter)
+* [Integeration Testing](https://flutter.dev/docs/testing/integration-tests)
 
 [](.)
 
