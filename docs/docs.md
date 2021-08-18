@@ -70,14 +70,6 @@
 
 [](.)
 
-* [`admin-portal`](https://github.com/invoiceninja/admin-portal) Invoice Ninja client built with Flutter.
-* [`flutter-boilerplate-project`](https://github.com/zubairehman/flutter-boilerplate-project) A boilerplate project created in flutter using MobX and Provider.
-* [`Flutter-Responsive-Admin-Panel-or-Dashboard`](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) Responsive Admin Panel or Dashboard using Flutter.
-* [`dashboard`](https://github.com/Ivaskuu/dashboard) Dashboard concept app.
-* [`dashboard_reborn`](https://github.com/urmilshroff/dashboard_reborn) Very sexy Flutter UI template✨
-
-[](.)
-
 * [`flutter_roadmap`](https://github.com/olexale/flutter_roadmap) Highly Subjective Roadmap to Flutter Development.
 * [`learn-flutter`](https://github.com/dwyl/learn-flutter) 🦋 Learn how to use Flutter to Build Cross-platform Native Mobile Apps.
 * [`Flutter-Course-Resources`](https://github.com/londonappbrewery/Flutter-Course-Resources) The Complete Flutter Development Bootcamp.
@@ -85,6 +77,11 @@
 
 [](.)
 
+* [`admin-portal`](https://github.com/invoiceninja/admin-portal) Invoice Ninja client built with Flutter.
+* [`flutter-boilerplate-project`](https://github.com/zubairehman/flutter-boilerplate-project) A boilerplate project created in flutter using MobX and Provider.
+* [`Flutter-Responsive-Admin-Panel-or-Dashboard`](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) Responsive Admin Panel or Dashboard using Flutter.
+* [`dashboard`](https://github.com/Ivaskuu/dashboard) Dashboard concept app.
+* [`dashboard_reborn`](https://github.com/urmilshroff/dashboard_reborn) Very sexy Flutter UI template✨
 * [`Flutter-AI-Rubik-cube-Solver`](https://github.com/brinesoftwares/Flutter-AI-Rubik-cube-Solver) Flutter-Python rubiks cube solver.
 
 ---
