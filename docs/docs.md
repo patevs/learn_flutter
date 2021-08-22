@@ -114,6 +114,7 @@
 * [`flushbar`](https://github.com/AndreHaueisen/flushbar) Customize user notifications.
 * [`bottom_navy_bar`](https://github.com/pedromassango/bottom_navy_bar) Beautiful and animated bottom navigation.
 * [`fancy_bottom_navigation`](https://github.com/tunitowen/fancy_bottom_navigation) Fancy bottom navigation bar.
+* [`circular_bottom_navigation`](https://github.com/imaNNeoFighT/circular_bottom_navigation) Circular Bottom Navigation (or maybe a tab bar).
 * [`timeline_tile`](https://github.com/JHBitencourt/timeline_tile) Build customisable timelines.
 * [`timelines`](https://github.com/chulwoo-park/timelines) Powerful & easy to use timeline package for Flutter! 🚀
 * [`eva_icons_flutter`](https://github.com/piyushmaurya23/eva_icons_flutter) More than 480 beautifully crafted Open Source icons for common actions and items.
