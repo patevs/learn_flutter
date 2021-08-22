@@ -67,6 +67,7 @@
 * [`gallery`](https://github.com/flutter/gallery) Flutter Gallery is a resource to help developers evaluate and use Flutter.
 * [`flutter_apps`](https://github.com/pacifio/flutter_apps) A collection of beautiful apps using flutter.
 * [`flutter-tutorials`](https://github.com/FilledStacks/flutter-tutorials) Source code for all the written tutorials by Filledstacks.
+* [`flutter-tips-and-tricks`](https://github.com/vandadnp/flutter-tips-and-tricks) A Collection of Flutter and Dart Tips and Tricks.
 
 [](.)
 
