@@ -103,6 +103,7 @@
 * [`flutter_horizontal_data_table`](https://github.com/MayLau-CbL/flutter_horizontal_data_table) Fixed Column Horizontal Datatable Widget.
 * [`flutter_sticky_and_expandable_list`](https://github.com/tp7309/flutter_sticky_and_expandable_list) A grouped list that supports expanded/collapsed sections and sticky headers.
 * [`flutter_svg`](https://pub.dev/packages/flutter_svg) An SVG rendering and widget library for Flutter.
+* [`fl_chart`](https://github.com/imaNNeoFighT/fl_chart) A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pie Chart, Scatter Chart and Radar Chart.
 
 [](.)
 
