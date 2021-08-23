@@ -69,6 +69,7 @@
 * [`flutter-tutorials`](https://github.com/FilledStacks/flutter-tutorials) Source code for all the written tutorials by Filledstacks.
 * [`flutter-tips-and-tricks`](https://github.com/vandadnp/flutter-tips-and-tricks) A Collection of Flutter and Dart Tips and Tricks.
 * [`getwidget`](https://github.com/ionicfirebaseapp/getwidget) GetWidget has 1000+ pre-build widgets that you can reuse to develop both Flutter mobile and web apps.
+* [`Taskez`](https://github.com/Davies-K/Taskez) A Productivity Mobile Application UI kit built with Flutter.
 
 [](.)
 
