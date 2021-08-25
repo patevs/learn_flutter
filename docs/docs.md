@@ -136,6 +136,7 @@
 * [`dartx`](https://github.com/leisim/dartx) Collection of useful static extension methods.
 * [`flutter_gen`](https://github.com/FlutterGen/flutter_gen) The Flutter code generator for your assets, fonts, colors, etc.
 * [`wiredash-sdk`](https://github.com/wiredashio/wiredash-sdk) Interactive user feedback tool for Flutter 🎉
+* [`sentry-dart`](https://github.com/getsentry/sentry-dart) Debug Flutter apps and prevent crashes across your entire stack. Flutter crash reporting and logging with a single view so you can identify, triage, and fix issues with maximum efficiency.
 
 ---
 
