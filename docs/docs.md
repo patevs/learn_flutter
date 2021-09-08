@@ -171,6 +171,7 @@
 * [`sidekick`](https://github.com/leoafarias/sidekick) A simple app to make Flutter development more delightful.
 * [`flutter_device_preview`](https://github.com/aloisdeniel/flutter_device_preview) Approximate how your app looks and performs on another device.
 * [`flutter_ume`](https://github.com/bytedance/flutter_ume) UME is an in-app debug kits platform for Flutter apps.
+* [`debug_friend`](https://github.com/Frezyx/debug_friend) 🐛 Flutter debug helper widget with common and custom actions.
 
 [](.)
 
