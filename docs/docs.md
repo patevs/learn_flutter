@@ -104,6 +104,7 @@
 
 [](.)
 
+* [`flutter_badges`](https://github.com/yako-dev/flutter_badges) A flutter package for creating badges.
 * [`Sizer`](https://github.com/TechnoUrmish/Sizer) Automatically adapt UI to different screen sizes.
 * [`flutter_screenutil`](https://github.com/OpenFlutter/flutter_screenutil) Plugin for adapting screen and font size.
 * [`flutter_staggered_animations`](https://github.com/mobiten/flutter_staggered_animations) Easily add staggered animations to your ListView, GridView, Column and Row children.
