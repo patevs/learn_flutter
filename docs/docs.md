@@ -21,6 +21,7 @@
 * [Dealing with Box Constraints](https://flutter.dev/docs/development/ui/layout/box-constraints)
 * [Form Validation](https://flutter.dev/docs/cookbook/forms/validation)
 * [Futures and Error Handling](https://dart.dev/guides/libraries/futures-error-handling)
+* [Creating Responsive and Adaptive Apps](https://flutter.dev/docs/development/ui/layout/adaptive-responsive)
 
 [](.)
 
