@@ -25,6 +25,7 @@
 
 [](.)
 
+* [Cookbook Samples](https://flutter.dev/docs/cookbook) Recipes that demonstrate how to solve common problems while writing Flutter apps.
 * [Flutter Examples](http://flutterexamples.com/) An ultimate cheatbook of curated designs.
 * [Flutter by Example](https://flutterbyexample.com/) A complete Dart and Flutter tutorial.
 * [Layout Cheatsheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
