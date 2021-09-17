@@ -138,6 +138,7 @@
 * [`popup_menu`](https://github.com/chinabrant/popup_menu) 🔥 A flutter popup menu.
 * [`marquee`](https://github.com/marcelgarus/marquee) A Flutter widget that scrolls text infinitely.
 * [`animated_selection_slide`](https://github.com/sbilketay/animated_selection_slide)
+* [`stepper_touch`](https://github.com/Rahiche/stepper_touch) Flutter Stepper Touch widget.
 
 [](.)
 
