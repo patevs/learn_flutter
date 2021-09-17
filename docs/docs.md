@@ -115,6 +115,7 @@
 * [`flutter_svg`](https://pub.dev/packages/flutter_svg) An SVG rendering and widget library for Flutter.
 * [`fl_chart`](https://github.com/imaNNeoFighT/fl_chart) A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pie Chart, Scatter Chart and Radar Chart.
 * [`dart_pdf`](https://github.com/DavBfr/dart_pdf) PDF creation module for Dart and Flutter.
+* [`flutter-permission-handler`](https://github.com/Baseflow/flutter-permission-handler) Plugin providing a cross-platform (iOS, Android) API to request and check permissions.
 
 [](.)
 
