@@ -139,6 +139,7 @@
 * [`marquee`](https://github.com/marcelgarus/marquee) A Flutter widget that scrolls text infinitely.
 * [`animated_selection_slide`](https://github.com/sbilketay/animated_selection_slide)
 * [`stepper_touch`](https://github.com/Rahiche/stepper_touch) Flutter Stepper Touch widget.
+* [`overflow_view`](https://github.com/letsar/overflow_view) A widget displaying children in a line until there is not enough space and showing a the number of children not rendered.
 
 [](.)
 
