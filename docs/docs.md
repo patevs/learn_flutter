@@ -141,6 +141,7 @@
 * [`animated_selection_slide`](https://github.com/sbilketay/animated_selection_slide)
 * [`stepper_touch`](https://github.com/Rahiche/stepper_touch) Flutter Stepper Touch widget.
 * [`overflow_view`](https://github.com/letsar/overflow_view) A widget displaying children in a line until there is not enough space and showing a the number of children not rendered.
+* [`Motion-Tab-Bar`](https://github.com/therezacuet/Motion-Tab-Bar) Beautiful animated Tab Bar widget.
 
 [](.)
 
