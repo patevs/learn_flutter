@@ -118,6 +118,7 @@
 * [`dart_pdf`](https://github.com/DavBfr/dart_pdf) PDF creation module for Dart and Flutter.
 * [`flutter-permission-handler`](https://github.com/Baseflow/flutter-permission-handler) Plugin providing a cross-platform (iOS, Android) API to request and check permissions.
 * [`flutter_slidable`](https://github.com/letsar/flutter_slidable) A Flutter implementation of slidable list item with directional slide actions.
+* [`layout`](https://github.com/jamesblasco/layout) Layout encourage consistency across platforms, environments, and screen sizes by using uniform elements and spacing.
 
 [](.)
 
