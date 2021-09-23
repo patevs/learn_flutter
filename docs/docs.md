@@ -119,6 +119,7 @@
 * [`flutter-permission-handler`](https://github.com/Baseflow/flutter-permission-handler) Plugin providing a cross-platform (iOS, Android) API to request and check permissions.
 * [`flutter_slidable`](https://github.com/letsar/flutter_slidable) A Flutter implementation of slidable list item with directional slide actions.
 * [`layout`](https://github.com/jamesblasco/layout) Layout encourage consistency across platforms, environments, and screen sizes by using uniform elements and spacing.
+* [`flutter_layout_grid`](https://github.com/madewithfelt/flutter_layout_grid) A grid-based layout system for Flutter, inspired by CSS Grid Layout.
 
 [](.)
 
