@@ -76,6 +76,7 @@
 * [`flutter-tips-and-tricks`](https://github.com/vandadnp/flutter-tips-and-tricks) A Collection of Flutter and Dart Tips and Tricks.
 * [`getwidget`](https://github.com/ionicfirebaseapp/getwidget) GetWidget has 1000+ pre-build widgets that you can reuse to develop both Flutter mobile and web apps.
 * [`Taskez`](https://github.com/Davies-K/Taskez) A Productivity Mobile Application UI kit built with Flutter.
+* [`generate_pdf_invoice_example`](https://github.com/JohannesMilke/generate_pdf_invoice_example) Create an Invoice PDF Document completely with Flutter and learn how to generate and view this invoice in Flutter.
 
 [](.)
 
