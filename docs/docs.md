@@ -23,6 +23,7 @@
 * [Form Validation](https://flutter.dev/docs/cookbook/forms/validation)
 * [Futures and Error Handling](https://dart.dev/guides/libraries/futures-error-handling)
 * [Creating Responsive and Adaptive Apps](https://flutter.dev/docs/development/ui/layout/adaptive-responsive)
+  * [Designing Adaptative User Interfaces](https://aloisdeniel.com/#/posts/adaptative-ui)
 
 [](.)
 
