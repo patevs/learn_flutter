@@ -14,6 +14,11 @@
   * [Flutter Packages](https://pub.dev/flutter)
 * [Integeration Testing](https://flutter.dev/docs/testing/integration-tests)
 * [Continuous Delivery](https://flutter.dev/docs/deployment/cd)
+  * [App Center](https://appcenter.ms/apps)
+    * [Documentation](https://docs.microsoft.com/en-us/appcenter/)
+    * [`microsoft/appcenter`](https://github.com/microsoft/appcenter)
+      * [Flutter Support](https://github.com/microsoft/appcenter/issues/67)
+    * [App Center Distribute <U+2013> Android In-app updates](https://docs.microsoft.com/en-us/appcenter/sdk/distribute/android)
 
 [](.)
 
