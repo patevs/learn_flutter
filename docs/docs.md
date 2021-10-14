@@ -163,6 +163,7 @@
 * [`wiredash-sdk`](https://github.com/wiredashio/wiredash-sdk) Interactive user feedback tool for Flutter 🎉
 * [`sentry-dart`](https://github.com/getsentry/sentry-dart) Debug Flutter apps and prevent crashes across your entire stack. Flutter crash reporting and logging with a single view so you can identify, triage, and fix issues with maximum efficiency.
 * [`azure_application_insights`](https://pub.dev/packages/azure_application_insights) A Dart client to integrate with Azure's Application Insights service.
+* [`flutter_appcenter_bundle`](https://pub.dev/packages/flutter_appcenter_bundle) This plugin currently bundles AppCenter Analytics, Crashes and Distribute.
 
 ---
 
