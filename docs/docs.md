@@ -25,6 +25,7 @@
 * [Creating Responsive and Adaptive Apps](https://flutter.dev/docs/development/ui/layout/adaptive-responsive)
   * [Designing Adaptive User Interfaces](https://aloisdeniel.com/#/posts/adaptative-ui)
 * [Writing Custom Platform-Specific Code](https://flutter.dev/docs/development/platform-integration/platform-channels)
+  * [Pass messages from Flutter to Native](https://stackoverflow.com/a/49308193)
 
 [](.)
 
