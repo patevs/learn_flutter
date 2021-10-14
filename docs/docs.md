@@ -24,6 +24,7 @@
 * [Futures and Error Handling](https://dart.dev/guides/libraries/futures-error-handling)
 * [Creating Responsive and Adaptive Apps](https://flutter.dev/docs/development/ui/layout/adaptive-responsive)
   * [Designing Adaptive User Interfaces](https://aloisdeniel.com/#/posts/adaptative-ui)
+* [Writing Custom Platform-Specific Code](https://flutter.dev/docs/development/platform-integration/platform-channels)
 
 [](.)
 
