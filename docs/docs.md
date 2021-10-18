@@ -129,6 +129,7 @@
 * [`flutter_slidable`](https://github.com/letsar/flutter_slidable) A Flutter implementation of slidable list item with directional slide actions.
 * [`layout`](https://github.com/jamesblasco/layout) Layout encourage consistency across platforms, environments, and screen sizes by using uniform elements and spacing.
 * [`flutter_layout_grid`](https://github.com/madewithfelt/flutter_layout_grid) A grid-based layout system for Flutter, inspired by CSS Grid Layout.
+* [`flutter_dropdown_menu`](https://github.com/best-flutter/flutter_dropdown_menu) A dropdown menu for Flutter.
 
 [](.)
 
