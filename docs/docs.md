@@ -71,6 +71,7 @@
 * [`awesome-flutter`](https://github.com/Solido/awesome-flutter) Curated list of the best Flutter libraries, tools, tutorials, articles and more.
 * [`awesomefluttertips`](https://github.com/erluxman/awesomefluttertips) Flutter tips and tricks.
 * [`awesome-flutter-packages`](https://github.com/leisim/awesome-flutter-packages) Curated list of awesome Flutter packages.
+* [`flutter-tips-and-tricks`](https://github.com/vandadnp/flutter-tips-and-tricks) A Collection of Flutter and Dart Tips and Tricks.
 
 [](.)
 
@@ -82,7 +83,6 @@
 * [`gallery`](https://github.com/flutter/gallery) Flutter Gallery is a resource to help developers evaluate and use Flutter.
 * [`flutter_apps`](https://github.com/pacifio/flutter_apps) A collection of beautiful apps using flutter.
 * [`flutter-tutorials`](https://github.com/FilledStacks/flutter-tutorials) Source code for all the written tutorials by Filledstacks.
-* [`flutter-tips-and-tricks`](https://github.com/vandadnp/flutter-tips-and-tricks) A Collection of Flutter and Dart Tips and Tricks.
 * [`getwidget`](https://github.com/ionicfirebaseapp/getwidget) GetWidget has 1000+ pre-build widgets that you can reuse to develop both Flutter mobile and web apps.
 * [`Taskez`](https://github.com/Davies-K/Taskez) A Productivity Mobile Application UI kit built with Flutter.
 * [`generate_pdf_invoice_example`](https://github.com/JohannesMilke/generate_pdf_invoice_example) Create an Invoice PDF Document completely with Flutter and learn how to generate and view this invoice in Flutter.
