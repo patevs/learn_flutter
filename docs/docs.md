@@ -130,6 +130,7 @@
 * [`layout`](https://github.com/jamesblasco/layout) Layout encourage consistency across platforms, environments, and screen sizes by using uniform elements and spacing.
 * [`flutter_layout_grid`](https://github.com/madewithfelt/flutter_layout_grid) A grid-based layout system for Flutter, inspired by CSS Grid Layout.
 * [`flutter_dropdown_menu`](https://github.com/best-flutter/flutter_dropdown_menu) A dropdown menu for Flutter.
+* [`flutter_fluid_slider`](https://github.com/rvamsikrishna/flutter_fluid_slider) A fluid design slider that works just like the [Slider](https://docs.flutter.io/flutter/material/Slider-class.html) material widget.
 
 [](.)
 
