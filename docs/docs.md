@@ -102,6 +102,7 @@
 * [`dashboard`](https://github.com/Ivaskuu/dashboard) Dashboard concept app.
 * [`dashboard_reborn`](https://github.com/urmilshroff/dashboard_reborn) Very sexy Flutter UI template✨
 * [`Flutter-AI-Rubik-cube-Solver`](https://github.com/brinesoftwares/Flutter-AI-Rubik-cube-Solver) Flutter-Python rubiks cube solver.
+* [`flutter-d-art`](https://github.com/Solido/flutter-d-art) Generative d.Art with Flutter.
 
 ---
 
