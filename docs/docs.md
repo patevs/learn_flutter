@@ -158,6 +158,7 @@
 * [`overflow_view`](https://github.com/letsar/overflow_view) A widget displaying children in a line until there is not enough space and showing a the number of children not rendered.
 * [`Motion-Tab-Bar`](https://github.com/therezacuet/Motion-Tab-Bar) Beautiful animated Tab Bar widget.
 * [`timeline_list`](https://github.com/furkantektas/timeline_list) Displays a scrollable timeline with custom child widgets and custom icons.
+* [`custom_pop_up_menu`](https://github.com/malikwang/custom_pop_up_menu) Tap or Long Press this widget and a popup menu will display in a suitable position.
 
 [](.)
 
