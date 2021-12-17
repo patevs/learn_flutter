@@ -8,6 +8,10 @@
     "type": "git",
     "url": "git+https://github.com/patevs/learn_flutter.git"
   },
+  "type": "module",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
   "scripts": {
     "updates": "script-progress node ./bin/checkUpdates",
     "release": "np"
