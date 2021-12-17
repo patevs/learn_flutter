@@ -12,7 +12,6 @@
   * [API Reference](https://api.flutter.dev/index.html)
 * [Packages and Plugins](https://flutter.dev/docs/development/packages-and-plugins)
   * [Flutter Packages](https://pub.dev/flutter)
-* [Integeration Testing](https://flutter.dev/docs/testing/integration-tests)
 * [Continuous Delivery](https://flutter.dev/docs/deployment/cd)
   * [App Center](https://appcenter.ms/apps)
     * [Documentation](https://docs.microsoft.com/en-us/appcenter/)
@@ -22,7 +21,24 @@
 
 [](.)
 
+* [Integration Testing](https://flutter.dev/docs/testing/integration-tests)
+  * [Introduction to Integration Testing](https://docs.flutter.dev/cookbook/testing/integration/introduction)
+* [Mock dependencies using Mockito](https://docs.flutter.dev/cookbook/testing/unit/mocking)
+* [Mocking HTTP Requests in Flutter](https://medium.com/codechai/mocking-http-request-in-flutter-c2596eea55f2)
+* [Unit Testing HTTP Requests](https://medium.com/koahealth/unit-testing-in-flutter-http-requests-bca215569656)
+* [Mock REST API Calls](https://stackoverflow.com/questions/55143353/how-best-to-stub-mock-rest-api-calls-in-flutter-integration-tests)
+
+[](.)
+
+* [Mock HTTP Requests in Flutter](https://stackoverflow.com/questions/55409978/how-to-mock-http-request-in-flutter-integration-test)
+* [Create REST API Integration Tests](https://medium.com/flutter-community/how-to-create-a-rest-api-client-and-its-integration-tests-in-flutter-924f71e23e0d)
+* [Simulating HTTP Request/Response Workflow](https://dev.to/lomsa/simulating-http-request-response-workflow-for-effective-testing-in-dart-flutter-via-http-mock-adapter-5eii)
+
+[](.)
+
 * [Create a Floating App Bar](https://flutter.dev/docs/cookbook/lists/floating-app-bar)
+* [Handle Scrolling](https://docs.flutter.dev/cookbook/testing/widget/scrolling)
+* [Form Validation](https://flutter.dev/docs/cookbook/forms/validation)
 * [Understanding Constraints](https://flutter.dev/docs/development/ui/layout/constraints)
 * [Dealing with Box Constraints](https://flutter.dev/docs/development/ui/layout/box-constraints)
 * [Form Validation](https://flutter.dev/docs/cookbook/forms/validation)
