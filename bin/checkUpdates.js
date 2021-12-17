@@ -6,14 +6,11 @@
 
 // IMPORTS //
 
-// import fs from 'fs'
-const fs = require('fs')
-const os = require('os')
-const childProcess = require('child_process')
+import fs from 'node:fs'
+import os from 'node:os'
+import childProcess from 'node:child_process'
 
-// eslint-disable-next-line import/no-extraneous-dependencies
-const chalk = require('chalk')
-
+import chalk from 'chalk'
 
 // CONSTANTS //
 
