@@ -175,6 +175,7 @@
 * [`Motion-Tab-Bar`](https://github.com/therezacuet/Motion-Tab-Bar) Beautiful animated Tab Bar widget.
 * [`timeline_list`](https://github.com/furkantektas/timeline_list) Displays a scrollable timeline with custom child widgets and custom icons.
 * [`custom_pop_up_menu`](https://github.com/malikwang/custom_pop_up_menu) Tap or Long Press this widget and a popup menu will display in a suitable position.
+* [`hidden_drawer_menu`](https://github.com/RafaelBarbosatec/hidden_drawer_menu) Beautiful drawer mode menu feature with perspective animation.
 
 [](.)
 
