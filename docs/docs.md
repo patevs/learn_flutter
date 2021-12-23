@@ -177,6 +177,7 @@
 * [`custom_pop_up_menu`](https://github.com/malikwang/custom_pop_up_menu) Tap or Long Press this widget and a popup menu will display in a suitable position.
 * [`hidden_drawer_menu`](https://github.com/RafaelBarbosatec/hidden_drawer_menu) Beautiful drawer mode menu feature with perspective animation.
 * [`intl_phone_number_input`](https://github.com/natintosh/intl_phone_number_input) Package for inputting phone number in intl / international format uses Google's `libphonenumber`.
+* [`virtual.keyboard.dart`](https://github.com/Taha-Firoz/virtual.keyboard.dart) Flutter Virtual Keyboard.
 
 [](.)
 
