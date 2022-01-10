@@ -119,6 +119,7 @@
 * [`dashboard_reborn`](https://github.com/urmilshroff/dashboard_reborn) Very sexy Flutter UI template✨
 * [`Flutter-AI-Rubik-cube-Solver`](https://github.com/brinesoftwares/Flutter-AI-Rubik-cube-Solver) Flutter-Python rubiks cube solver.
 * [`flutter-d-art`](https://github.com/Solido/flutter-d-art) Generative d.Art with Flutter.
+* [`dart-vector-tile-renderer`](https://github.com/greensopinion/dart-vector-tile-renderer) A vector tile renderer for use in creating map tile images or writing to a canvas.
 * [`flutter_boilerplate`](https://github.com/danvick/flutter_boilerplate) Flutter starter template for production applications with a REST backend.
 
 ---
