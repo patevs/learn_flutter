@@ -263,5 +263,6 @@
 * [`monarch`](https://github.com/Dropsource/monarch) Monarch is a tool that makes building beautiful Flutter widgets a more pleasant and faster experience.
 * [`FigmaToCode`](https://github.com/bernaferrari/FigmaToCode) Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
 * [`assistant`](https://github.com/gridaco/assistant) Figma plugin that generates usable & readable Flutter code for production.
+* [`flutter_ide`](https://github.com/Norbert515/flutter_ide) A visual editor for Flutter widgets.
 
 ---
