@@ -181,6 +181,10 @@
 
 [](.)
 
+* [`country_code_picker`](https://pub.dev/packages/country_code_picker) A flutter package for showing a country code selector.
+
+[](.)
+
 * [`dartx`](https://github.com/leisim/dartx) Collection of useful static extension methods.
 * [`flutter_gen`](https://github.com/FlutterGen/flutter_gen) The Flutter code generator for your assets, fonts, colors, etc.
 * [`wiredash-sdk`](https://github.com/wiredashio/wiredash-sdk) Interactive user feedback tool for Flutter 🎉
