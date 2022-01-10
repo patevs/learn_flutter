@@ -190,6 +190,10 @@
 
 [](.)
 
+* [`flutter_google_places`](https://pub.dev/packages/flutter_google_places) Google places autocomplete widgets for flutter.
+
+[](.)
+
 * [`dartx`](https://github.com/leisim/dartx) Collection of useful static extension methods.
 * [`flutter_gen`](https://github.com/FlutterGen/flutter_gen) The Flutter code generator for your assets, fonts, colors, etc.
 * [`wiredash-sdk`](https://github.com/wiredashio/wiredash-sdk) Interactive user feedback tool for Flutter 🎉
