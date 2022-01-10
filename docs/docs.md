@@ -182,6 +182,10 @@
 
 [](.)
 
+* [`flutter_hooks`](https://github.com/rrousselGit/flutter_hooks) A Flutter implementation of React hooks.
+
+[](.)
+
 * [`flutter_form_builder`](https://github.com/danvick/flutter_form_builder) Simple form maker for Flutter Framework.
 
 [](.)
