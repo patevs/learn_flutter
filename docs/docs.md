@@ -176,13 +176,16 @@
 * [`timeline_list`](https://github.com/furkantektas/timeline_list) Displays a scrollable timeline with custom child widgets and custom icons.
 * [`custom_pop_up_menu`](https://github.com/malikwang/custom_pop_up_menu) Tap or Long Press this widget and a popup menu will display in a suitable position.
 * [`hidden_drawer_menu`](https://github.com/RafaelBarbosatec/hidden_drawer_menu) Beautiful drawer mode menu feature with perspective animation.
-* [`intl_phone_number_input`](https://github.com/natintosh/intl_phone_number_input) Package for inputting phone number in intl / international format uses Google's `libphonenumber`.
 * [`virtual.keyboard.dart`](https://github.com/Taha-Firoz/virtual.keyboard.dart) Flutter Virtual Keyboard.
 
 [](.)
 
 * [`country_code_picker`](https://pub.dev/packages/country_code_picker) A flutter package for showing a country code selector.
 * [`flutter_country_picker`](https://pub.dev/packages/country_picker) A flutter package to select a country from a list of countries.
+
+[](.)
+
+* [`intl_phone_number_input`](https://pub.dev/packages/intl_phone_number_input) A simple and customizable flutter package for inputting phone number in international format. Uses Google's `libphonenumber`.
 
 [](.)
 
