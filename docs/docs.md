@@ -186,6 +186,7 @@
 [](.)
 
 * [`intl_phone_number_input`](https://pub.dev/packages/intl_phone_number_input) A simple and customizable flutter package for inputting phone number in international format. Uses Google's `libphonenumber`.
+* [`intl_phone_field`](https://pub.dev/packages/intl_phone_field) A customised Flutter TextFormField to input international phone number along with country code.
 
 [](.)
 
