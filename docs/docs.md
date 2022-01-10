@@ -191,6 +191,7 @@
 [](.)
 
 * [`flutter_google_places`](https://pub.dev/packages/flutter_google_places) Google places autocomplete widgets for flutter.
+* [`google_map_location_picker`](https://pub.dev/packages/google_map_location_picker) 🌍 Map location picker for flutter.
 
 [](.)
 
