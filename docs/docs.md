@@ -182,6 +182,7 @@
 [](.)
 
 * [`country_code_picker`](https://pub.dev/packages/country_code_picker) A flutter package for showing a country code selector.
+* [`flutter_country_picker`](https://pub.dev/packages/country_picker) A flutter package to select a country from a list of countries.
 
 [](.)
 
