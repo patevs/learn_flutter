@@ -264,5 +264,6 @@
 * [`FigmaToCode`](https://github.com/bernaferrari/FigmaToCode) Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
 * [`assistant`](https://github.com/gridaco/assistant) Figma plugin that generates usable & readable Flutter code for production.
 * [`flutter_ide`](https://github.com/Norbert515/flutter_ide) A visual editor for Flutter widgets.
+* [`widgetbook`](https://github.com/widgetbook/widgetbook) A flutter package which helps developers cataloguing their widgets, testing them quickly on multiple devices and themes, and sharing them easily with designers and clients.
 
 ---
