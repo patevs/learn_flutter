@@ -205,6 +205,7 @@
 
 [](.)
 
+* [`google_maps_flutter`](https://pub.dev/packages/google_maps_flutter) Plugin for integrating Google Maps in iOS and Android applications.
 * [`flutter_google_places`](https://pub.dev/packages/flutter_google_places) Google places autocomplete widgets for flutter.
 * [`google_map_location_picker`](https://pub.dev/packages/google_map_location_picker) 🌍 Map location picker for flutter.
 * [`google_maps_place_picker`](https://pub.dev/packages/google_maps_place_picker) A Flutter plugin which provides 'Picking Place' using Google Maps widget.
