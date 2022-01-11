@@ -183,6 +183,10 @@
 
 [](.)
 
+* [`flutter_shimmer`](https://github.com/hnvn/flutter_shimmer) Provides an easy way to add shimmer effect in Flutter.
+
+[](.)
+
 * [`flutter_hooks`](https://github.com/rrousselGit/flutter_hooks) A Flutter implementation of React hooks.
 
 [](.)
