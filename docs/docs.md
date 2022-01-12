@@ -121,6 +121,7 @@
 * [`flutter-d-art`](https://github.com/Solido/flutter-d-art) Generative d.Art with Flutter.
 * [`dart-vector-tile-renderer`](https://github.com/greensopinion/dart-vector-tile-renderer) A vector tile renderer for use in creating map tile images or writing to a canvas.
 * [`flutter_boilerplate`](https://github.com/danvick/flutter_boilerplate) Flutter starter template for production applications with a REST backend.
+* [`FlutterPlayground`](https://github.com/ibhavikmakwana/FlutterPlayground) Playground app for Flutter. Contains examples to quickly learn and tinker around with various features.
 
 ---
 
