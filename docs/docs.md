@@ -188,6 +188,10 @@
 
 [](.)
 
+* [`Flutter_slider_drawer`](https://github.com/NikhilVadoliya/Flutter_slider_drawer) Custom implementation of the Slider Drawer Menu.
+
+[](.)
+
 * [`flutter_hooks`](https://github.com/rrousselGit/flutter_hooks) A Flutter implementation of React hooks.
 
 [](.)
