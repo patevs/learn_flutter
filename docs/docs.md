@@ -184,6 +184,10 @@
 
 [](.)
 
+* [`fab-circular-menu`](https://github.com/marianocordoba/fab-circular-menu) Circular menu using a Floating Action Button.
+
+[](.)
+
 * [`flutter_shimmer`](https://github.com/hnvn/flutter_shimmer) Provides an easy way to add shimmer effect in Flutter.
 
 [](.)
