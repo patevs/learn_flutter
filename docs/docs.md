@@ -184,6 +184,10 @@
 
 [](.)
 
+* [`flutter_calendar`](https://github.com/pinkfish/flutter_calendar) Calendar widget for Flutter.
+
+[](.)
+
 * [`fab-circular-menu`](https://github.com/marianocordoba/fab-circular-menu) Circular menu using a Floating Action Button.
 
 [](.)
