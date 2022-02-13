@@ -133,6 +133,7 @@
   * [`pretty_dio_logger`](https://github.com/Milad-Akarie/pretty_dio_logger) Dio interceptor that logs network calls in a pretty, easy to read format.
 * [`json_serializable.dart`](https://github.com/google/json_serializable.dart) Generates utilities to aid in serializing to/from JSON.
 * [`logger`](https://github.com/leisim/logger) Small, easy to use and extensible logger which prints beautiful logs.
+* [`packages.flutter`](https://github.com/rbcprolabs/packages.flutter) 👨‍💻 Plugins and packages for Flutter framework.
 
 [](.)
 
