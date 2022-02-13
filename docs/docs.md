@@ -171,6 +171,7 @@
 * [`giffy_dialog`](https://github.com/xsahil03x/giffy_dialog) A beautiful and custom alert dialog.
 * [`folding_cell`](https://github.com/faob-dev/folding_cell) Simple folding cell widget, pass `frontWidget` and `innerWidget` to fold and unfold.
 * [`route_transitions`](https://github.com/pacifio/route_transitions) A flutter library containing useful animations and friendly functions for routing 🚦
+* [`transformer_page_view`](https://github.com/best-flutter/transformer_page_view) PageTransformer for Flutter.
 * [`titled_navigation_bar`](https://github.com/pedromassango/titled_navigation_bar) A beautiful and simple bottom navigation bar with smooth animation when switching selected item.
 * [`popup_menu`](https://github.com/chinabrant/popup_menu) 🔥 A flutter popup menu.
 * [`marquee`](https://github.com/marcelgarus/marquee) A Flutter widget that scrolls text infinitely.
