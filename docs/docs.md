@@ -123,6 +123,7 @@
 * [`dart-vector-tile-renderer`](https://github.com/greensopinion/dart-vector-tile-renderer) A vector tile renderer for use in creating map tile images or writing to a canvas.
 * [`flutter_boilerplate`](https://github.com/danvick/flutter_boilerplate) Flutter starter template for production applications with a REST backend.
 * [`FlutterPlayground`](https://github.com/ibhavikmakwana/FlutterPlayground) Playground app for Flutter. Contains examples to quickly learn and tinker around with various features.
+* [`flutter_ui_challenge_flight_search`](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) An advanced UI design implemented in Flutter.
 
 ---
 
