@@ -207,6 +207,7 @@
 [](.)
 
 * [`flutter_form_builder`](https://github.com/danvick/flutter_form_builder) Simple form maker for Flutter Framework.
+* [`multiselect_formfield`](https://github.com/cetorres/multiselect_formfield) A multi select form field using alert dialog to select multiple items with checkboxes and showing as chips.
 
 [](.)
 
