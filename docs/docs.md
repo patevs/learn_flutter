@@ -188,6 +188,7 @@
 * [`virtual.keyboard.dart`](https://github.com/Taha-Firoz/virtual.keyboard.dart) Flutter Virtual Keyboard.
 * [`xterm.dart`](https://github.com/TerminalStudio/xterm.dart) 💻 xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms.
 * [`niku`](https://github.com/SaltyAom/niku) Effortless property builder for composing maintainable Flutter UI.
+* [`breakpoint`](https://github.com/fluttercommunity/breakpoint) Plugin to calculate the material design breakpoints.
 
 [](.)
 
