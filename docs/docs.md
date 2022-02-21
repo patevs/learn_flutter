@@ -189,6 +189,7 @@
 * [`xterm.dart`](https://github.com/TerminalStudio/xterm.dart) 💻 xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms.
 * [`niku`](https://github.com/SaltyAom/niku) Effortless property builder for composing maintainable Flutter UI.
 * [`breakpoint`](https://github.com/fluttercommunity/breakpoint) Plugin to calculate the material design breakpoints.
+* [`edge_detection`](https://github.com/sawankumarbundelkhandi/edge_detection) Plugin to detect edges of objects, scan paper, detect corners, and detect rectangles.
 
 [](.)
 
