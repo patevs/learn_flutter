@@ -187,6 +187,7 @@
 * [`hidden_drawer_menu`](https://github.com/RafaelBarbosatec/hidden_drawer_menu) Beautiful drawer mode menu feature with perspective animation.
 * [`virtual.keyboard.dart`](https://github.com/Taha-Firoz/virtual.keyboard.dart) Flutter Virtual Keyboard.
 * [`xterm.dart`](https://github.com/TerminalStudio/xterm.dart) 💻 xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms.
+* [`niku`](https://github.com/SaltyAom/niku) Effortless property builder for composing maintainable Flutter UI.
 
 [](.)
 
