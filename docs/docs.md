@@ -193,6 +193,7 @@
 * [`edge_detection`](https://github.com/sawankumarbundelkhandi/edge_detection) Plugin to detect edges of objects, scan paper, detect corners, and detect rectangles.
 * [`flutter_rounded_loading_button`](https://github.com/chrisedg87/flutter_rounded_loading_button) Animated loading button widget for Flutter.
 * [`responsive_sizer`](https://github.com/CoderUni/responsive_sizer) Responsive Sizer helps implement a responsive layout by providing helper widgets and extensions.
+* [`flutter_sequence_animation`](https://github.com/Norbert515/flutter_sequence_animation) Orchestrate multiple animations with ease.
 
 [](.)
 
