@@ -163,6 +163,7 @@
 * [`auto_size_text`](https://github.com/leisim/auto_size_text) Automatically resizes text to fit perfectly within its bounds.
 * [`azlistview`](https://github.com/flutterchina/azlistview) Sticky headers & index ListView.
   * [`scrollable_positioned_list`](https://pub.flutter-io.cn/packages/scrollable_positioned_list) Flutter list that allows scrolling to a specific item in the list.
+* [`sticky_grouped_list`](https://github.com/Dimibe/sticky_grouped_list) A `ScrollablePositionedList` in which items can be grouped into sections with sticky headers.
 * [`NumberPicker`](https://github.com/MarcinusX/NumberPicker) Choose an integer or decimal number by scrolling spinners.
 * [`modal_bottom_sheet`](https://github.com/jamesblasco/modal_bottom_sheet) Create advanced modal bottom sheets.
 * [`flushbar`](https://github.com/AndreHaueisen/flushbar) Customize user notifications.
