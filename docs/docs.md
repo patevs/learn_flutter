@@ -161,6 +161,7 @@
 * [`flutter_dropdown_menu`](https://github.com/best-flutter/flutter_dropdown_menu) A dropdown menu for Flutter.
 * [`flutter_fluid_slider`](https://github.com/rvamsikrishna/flutter_fluid_slider) A fluid design slider that works just like the [Slider](https://docs.flutter.io/flutter/material/Slider-class.html) material widget.
 * [`flutter_widget_from_html`](https://github.com/daohoangson/flutter_widget_from_html) Render html as widgets that supports hyperlink, image, audio, video, iframe and many other tags.
+* [`flutter_smart_dialog`](https://github.com/fluttercandies/flutter_smart_dialog) An elegant Flutter Dialog solution.
 
 [](.)
 
