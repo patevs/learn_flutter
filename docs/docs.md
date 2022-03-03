@@ -163,6 +163,7 @@
 * [`flutter_widget_from_html`](https://github.com/daohoangson/flutter_widget_from_html) Render html as widgets that supports hyperlink, image, audio, video, iframe and many other tags.
 * [`flutter_smart_dialog`](https://github.com/fluttercandies/flutter_smart_dialog) An elegant Flutter Dialog solution.
 * [`flutter_keyboard_actions`](https://github.com/diegoveloper/flutter_keyboard_actions) Add features to the Android / iOS keyboard in a simple way.
+* [`flutter_showcaseview`](https://github.com/SimformSolutionsPvtLtd/flutter_showcaseview) Showcase/Highlight your widgets step by step.
 
 [](.)
 
