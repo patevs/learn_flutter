@@ -259,6 +259,7 @@
 * [`azure_application_insights`](https://pub.dev/packages/azure_application_insights) A Dart client to integrate with Azure's Application Insights service.
 * [`flutter_appcenter_bundle`](https://pub.dev/packages/flutter_appcenter_bundle) This plugin currently bundles AppCenter Analytics, Crashes and Distribute.
 * [`debug_log_console`](https://github.com/malikwang/debug_log_console) A draggable and hoverable panel to display the key info/log of app state, network requests, etc. The info/log can be copied or shared as file.
+* [`spider`](https://github.com/BirjuVachhani/spider) Library to generate Assets dart code from assets folder.
 
 ---
 
