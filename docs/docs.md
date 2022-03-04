@@ -164,6 +164,7 @@
 * [`flutter_smart_dialog`](https://github.com/fluttercandies/flutter_smart_dialog) An elegant Flutter Dialog solution.
 * [`flutter_keyboard_actions`](https://github.com/diegoveloper/flutter_keyboard_actions) Add features to the Android / iOS keyboard in a simple way.
 * [`flutter_showcaseview`](https://github.com/SimformSolutionsPvtLtd/flutter_showcaseview) Showcase/Highlight your widgets step by step.
+* [`flutter-custom-refresh-indicator`](https://github.com/gonuit/flutter-custom-refresh-indicator) This package provides `CustomRefreshIndicator` widget that make it easy to implement your own custom refresh indicator.
 
 [](.)
 
