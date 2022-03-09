@@ -51,6 +51,7 @@
 [](.)
 
 * [Buttons and Button Themes](https://docs.flutter.dev/release/breaking-changes/buttons)
+  * [`ButtonStyle` API](https://api.flutter.dev/flutter/material/ButtonStyle-class.html)
 
 [](.)
 
