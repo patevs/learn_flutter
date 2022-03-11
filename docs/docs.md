@@ -302,6 +302,21 @@
   $ flutter pub global run devtools   # If you have `flutter` on your path.
   ```
 
+* [`junitreport`](https://pub.dev/packages/junitreport) Generate JUnit XML reports from dart test runs.
+
+  ```bash
+  # Install with pub.
+  $ dart pub global activate junitreport
+  # Run a single test file.
+  $ dart test simple_test.dart --reporter json > example.jsonl
+  # Generate Junit report.
+  $ dart pub global run junitreport:tojunit --input example.jsonl --output TEST-report.xml
+  # Generate junitreport only:
+  $ dart test simple_test.dart --reporter json | tojunit
+  # Run all Flutter test cases:
+  $ flutter test --machine | tojunit
+  ```
+
 * [`fvm`](https://github.com/leoafarias/fvm) Flutter Version Management: A simple CLI to manage Flutter SDK versions.
 * [`sidekick`](https://github.com/leoafarias/sidekick) A simple app to make Flutter development more delightful.
 * [`flutter_device_preview`](https://github.com/aloisdeniel/flutter_device_preview) Approximate how your app looks and performs on another device.
