@@ -215,6 +215,7 @@
 * [`responsive_framework`](https://pub.dev/packages/responsive_framework) Responsive Framework adapts your UI to different screen sizes automatically.
 * [`flutter_sequence_animation`](https://github.com/Norbert515/flutter_sequence_animation) Orchestrate multiple animations with ease.
 * [`flutter_swipe_action_cell`](flutter_swipe_action_cell) Provides a cell widget that has leading and trailing swipe action menu.
+* [`pigment`](https://github.com/bregydoc/pigment) A simple but useful package to play with colors in Flutter.
 
 [](.)
 
