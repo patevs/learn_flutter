@@ -140,6 +140,7 @@
   * [`pretty_dio_logger`](https://github.com/Milad-Akarie/pretty_dio_logger) Dio interceptor that logs network calls in a pretty, easy to read format.
   * [`dio-http-cache`](https://github.com/hurshi/dio-http-cache) HTTP cache library for Flutter `dio`, like `RxCache`.
 * [`json_serializable.dart`](https://github.com/google/json_serializable.dart) Generates utilities to aid in serializing to/from JSON.
+* [`freezed`](https://pub.dev/packages/freezed) Code generation for immutable classes that has a simple syntax/API without compromising on the features.
 * [`deep_pick`](https://pub.dev/packages/deep_pick) Simplifies manual JSON parsing with a type-safe API.
 * [`logger`](https://github.com/leisim/logger) Small, easy to use and extensible logger which prints beautiful logs.
 * [`packages.flutter`](https://github.com/rbcprolabs/packages.flutter) 👨‍💻 Plugins and packages for Flutter framework.
