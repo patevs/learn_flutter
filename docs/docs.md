@@ -177,6 +177,7 @@
 * [`flutter-custom-refresh-indicator`](https://github.com/gonuit/flutter-custom-refresh-indicator) This package provides `CustomRefreshIndicator` widget that make it easy to implement your own custom refresh indicator.
 * [`flutter_percent_indicator`](https://github.com/diegoveloper/flutter_percent_indicator) Circular and Linear percent indicators.
 * [`flutter-draggable-scrollbar`](https://github.com/fluttercommunity/flutter-draggable-scrollbar) A scrollbar that can be dragged for quick navigation through a vertical list.
+* [`Flutter-Progress-Dialog`](https://github.com/emreesen27/Flutter-Progress-Dialog) Progress dialog package for Flutter.
 
 [](.)
 
