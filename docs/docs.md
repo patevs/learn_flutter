@@ -150,6 +150,7 @@
 
 * [`hive`](https://pub.dev/packages/hive) Lightweight and blazing fast key-value database written in pure Dart.
 * [`get_storage`](https://pub.dev/packages/get_storage) A fast, extra light and synchronous key-value in memory, which backs up data to disk at each operation.
+* [`isar`](https://pub.dev/packages/isar) Fast Cross Platform Database for Flutter Apps. Supports indexes, FTS, queries etc.
 
 [](.)
 
