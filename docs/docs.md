@@ -61,6 +61,10 @@
 * [Layout Cheatsheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
 * [Flutter's Rendering Pipeline](https://www.youtube.com/watch?v=UUfXWzp0-DU)
 
+[](.)
+
+* [Adding Micro-Interactions with `AnimatedSwitcher`](https://www.raywenderlich.com/24345609-adding-micro-interactions-with-animatedswitcher)
+
 ### Dart
 
 * [Bootstrap into Dart](https://flutter.dev/docs/resources/bootstrap-into-dart)
