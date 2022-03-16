@@ -231,6 +231,7 @@
 [](.)
 
 * [`overlay_support`](https://github.com/boyan01/overlay_support) Flutter toast and notification library.
+* [`bot_toast`](https://github.com/MMMzq/bot_toast) A really easy to use flutter toast library!
 
 [](.)
 
