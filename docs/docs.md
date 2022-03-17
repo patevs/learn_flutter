@@ -186,6 +186,7 @@
 * [`flutter-draggable-scrollbar`](https://github.com/fluttercommunity/flutter-draggable-scrollbar) A scrollbar that can be dragged for quick navigation through a vertical list.
 * [`Flutter-Progress-Dialog`](https://github.com/emreesen27/Flutter-Progress-Dialog) Progress dialog package for Flutter.
 * [`responsive_scaffold`](https://github.com/fluttercommunity/responsive_scaffold) Responsive Scaffold - On mobile it shows a list and pushes to details and on tablet it shows the List and the selected item.
+* [`flutter_cool_alert`](https://github.com/emrade/flutter_cool_alert) A Flutter package to display animated alert dialogs.
 
 [](.)
 
