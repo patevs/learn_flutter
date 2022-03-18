@@ -242,6 +242,7 @@
 [](.)
 
 * [`fab-circular-menu`](https://github.com/marianocordoba/fab-circular-menu) Circular menu using a Floating Action Button.
+* [`unicornspeeddial`](https://github.com/tiagojencmartins/unicornspeeddial) Flutter Floating Action Button with Speed Dial.
 
 [](.)
 
