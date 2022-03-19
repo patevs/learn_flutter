@@ -13,6 +13,7 @@
     "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
   },
   "scripts": {
+    "prepare": "husky install",
     "updates": "script-progress node ./bin/checkUpdates",
     "release": "np"
   },
@@ -21,7 +22,7 @@
     "@types/node": "*",
     "chalk": "^5.0.1",
     "commitlint-config-gitmoji": "^2.2.5",
-    "husky": "^7.0.4",
+    "husky": "^7.0.0",
     "np": "^7.6.0",
     "script-progress": "^1.0.5"
   },
