@@ -165,6 +165,7 @@
 * [`flutter_staggered_animations`](https://github.com/mobiten/flutter_staggered_animations) Easily add staggered animations to your ListView, GridView, Column and Row children.
 * [`flutter_staggered_grid_view`](https://github.com/letsar/flutter_staggered_grid_view) Staggered grid view which supports multiple columns with rows of varying sizes.
 * [`flutter_infinite_listview`](https://github.com/fluttercommunity/flutter_infinite_listview) ListView with items that can be scrolled infinitely in both directions.
+* [`flutter_sticky_infinite_list`](https://github.com/TatsuUkraine/flutter_sticky_infinite_list) Multi directional infinite list with Sticky headers for Flutter applications.
 * [`flutter_horizontal_data_table`](https://github.com/MayLau-CbL/flutter_horizontal_data_table) Fixed Column Horizontal Datatable Widget.
 * [`flutter_sticky_and_expandable_list`](https://github.com/tp7309/flutter_sticky_and_expandable_list) A grouped list that supports expanded/collapsed sections and sticky headers.
 * [`flutter_svg`](https://pub.dev/packages/flutter_svg) An SVG rendering and widget library for Flutter.
