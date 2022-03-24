@@ -232,6 +232,7 @@
 * [`flutter_swipe_action_cell`](flutter_swipe_action_cell) Provides a cell widget that has leading and trailing swipe action menu.
 * [`pigment`](https://github.com/bregydoc/pigment) A simple but useful package to play with colors in Flutter.
 * [`flutter_animated_background`](https://github.com/AndreBaltazar8/flutter_animated_background) Animated Backgrounds for Flutter.
+* [`flutter_screen_lock`](https://github.com/naoki0719/flutter_screen_lock) Provides the ability to lock the screen on ios and android. Biometric authentication can be used in addition to passcode.
 
 [](.)
 
