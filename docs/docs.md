@@ -164,6 +164,10 @@
 
 [](.)
 
+* [`riverpod`](https://pub.dev/packages/riverpod) A simple way to access state from anywhere in your application while robust and testable.
+
+[](.)
+
 * [`flutter_badges`](https://github.com/yako-dev/flutter_badges) A flutter package for creating badges.
 * [`Sizer`](https://github.com/TechnoUrmish/Sizer) Automatically adapt UI to different screen sizes.
 * [`flutter_screenutil`](https://github.com/OpenFlutter/flutter_screenutil) Plugin for adapting screen and font size.
