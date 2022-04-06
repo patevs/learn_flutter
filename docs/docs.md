@@ -205,8 +205,12 @@
   * [`scrollable_positioned_list`](https://pub.flutter-io.cn/packages/scrollable_positioned_list) Flutter list that allows scrolling to a specific item in the list.
 * [`sticky_grouped_list`](https://github.com/Dimibe/sticky_grouped_list) A `ScrollablePositionedList` in which items can be grouped into sections with sticky headers.
 * [`NumberPicker`](https://github.com/MarcinusX/NumberPicker) Choose an integer or decimal number by scrolling spinners.
-* [`modal_bottom_sheet`](https://github.com/jamesblasco/modal_bottom_sheet) Create advanced modal bottom sheets.
 * [`flushbar`](https://github.com/AndreHaueisen/flushbar) Customize user notifications.
+
+[](.)
+
+* [`modal_bottom_sheet`](https://github.com/jamesblasco/modal_bottom_sheet) Create advanced modal bottom sheets.
+* [`snapping_sheet`](https://github.com/AdamJonsson/snapping_sheet) Customizable sheet widget that snaps to different vertical & horizontal positions!
 
 [](.)
 
