@@ -288,6 +288,10 @@
 
 [](.)
 
+* [`flutter_rounded_date_picker`](https://github.com/benznest/flutter_rounded_date_picker) Choose dates and years with rounded calendars and customizable themes.
+
+[](.)
+
 * [`country_code_picker`](https://pub.dev/packages/country_code_picker) A flutter package for showing a country code selector.
 * [`flutter_country_picker`](https://pub.dev/packages/country_picker) A flutter package to select a country from a list of countries.
 
