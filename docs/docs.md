@@ -239,8 +239,15 @@
 * [`Motion-Tab-Bar`](https://github.com/therezacuet/Motion-Tab-Bar) Beautiful animated Tab Bar widget.
 * [`timeline_list`](https://github.com/furkantektas/timeline_list) Displays a scrollable timeline with custom child widgets and custom icons.
 * [`custom_pop_up_menu`](https://github.com/malikwang/custom_pop_up_menu) Tap or Long Press this widget and a popup menu will display in a suitable position.
+
+[](.)
+
 * [`hidden_drawer_menu`](https://github.com/RafaelBarbosatec/hidden_drawer_menu) Beautiful drawer mode menu feature with perspective animation.
 * [`easy_sidemenu`](https://github.com/Jamalianpour/easy_sidemenu) An easy to use side menu (bar) for Flutter that can be used for navigations.
+* [`flutter_advanced_drawer`](https://github.com/alex-melnyk/flutter_advanced_drawer) An advanced drawer widget, that can be fully customized with size, text, color, radius of corners.
+
+[](.)
+
 * [`virtual.keyboard.dart`](https://github.com/Taha-Firoz/virtual.keyboard.dart) Flutter Virtual Keyboard.
 * [`xterm.dart`](https://github.com/TerminalStudio/xterm.dart) 💻 xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms.
 * [`niku`](https://github.com/SaltyAom/niku) Effortless property builder for composing maintainable Flutter UI.
