@@ -245,6 +245,7 @@
 * [`hidden_drawer_menu`](https://github.com/RafaelBarbosatec/hidden_drawer_menu) Beautiful drawer mode menu feature with perspective animation.
 * [`easy_sidemenu`](https://github.com/Jamalianpour/easy_sidemenu) An easy to use side menu (bar) for Flutter that can be used for navigations.
 * [`flutter_advanced_drawer`](https://github.com/alex-melnyk/flutter_advanced_drawer) An advanced drawer widget, that can be fully customized with size, text, color, radius of corners.
+* [`flutter_zoom_drawer`](https://github.com/medyas/flutter_zoom_drawer) Custom implementation of the Side Menu (Drawer).
 
 [](.)
 
