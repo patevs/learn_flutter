@@ -202,6 +202,7 @@
 * [`Flutter-Progress-Dialog`](https://github.com/emreesen27/Flutter-Progress-Dialog) Progress dialog package for Flutter.
 * [`flutter_cool_alert`](https://github.com/emrade/flutter_cool_alert) A Flutter package to display animated alert dialogs.
 * [`giffy_dialog`](https://github.com/xsahil03x/giffy_dialog) A beautiful and custom alert dialog.
+* [`flutter-custom-dialog`](https://github.com/YYFlutter/flutter-custom-dialog) 🚀🚀🚀 Semantic dialog.
 
 [](.)
 
