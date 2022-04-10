@@ -188,16 +188,20 @@
 * [`flutter_dropdown_menu`](https://github.com/best-flutter/flutter_dropdown_menu) A dropdown menu for Flutter.
 * [`flutter_fluid_slider`](https://github.com/rvamsikrishna/flutter_fluid_slider) A fluid design slider that works just like the [Slider](https://docs.flutter.io/flutter/material/Slider-class.html) material widget.
 * [`flutter_widget_from_html`](https://github.com/daohoangson/flutter_widget_from_html) Render html as widgets that supports hyperlink, image, audio, video, iframe and many other tags.
-* [`flutter_smart_dialog`](https://github.com/fluttercandies/flutter_smart_dialog) An elegant Flutter Dialog solution.
 * [`flutter_keyboard_actions`](https://github.com/diegoveloper/flutter_keyboard_actions) Add features to the Android / iOS keyboard in a simple way.
 * [`flutter_showcaseview`](https://github.com/SimformSolutionsPvtLtd/flutter_showcaseview) Showcase/Highlight your widgets step by step.
 * [`super_tooltip`](https://github.com/escamoteur/super_tooltip) Display ToolTips in an overlay of the screen.
 * [`flutter-custom-refresh-indicator`](https://github.com/gonuit/flutter-custom-refresh-indicator) This package provides `CustomRefreshIndicator` widget that make it easy to implement your own custom refresh indicator.
 * [`flutter_percent_indicator`](https://github.com/diegoveloper/flutter_percent_indicator) Circular and Linear percent indicators.
 * [`flutter-draggable-scrollbar`](https://github.com/fluttercommunity/flutter-draggable-scrollbar) A scrollbar that can be dragged for quick navigation through a vertical list.
-* [`Flutter-Progress-Dialog`](https://github.com/emreesen27/Flutter-Progress-Dialog) Progress dialog package for Flutter.
 * [`responsive_scaffold`](https://github.com/fluttercommunity/responsive_scaffold) Responsive Scaffold - On mobile it shows a list and pushes to details and on tablet it shows the List and the selected item.
+
+[](.)
+
+* [`flutter_smart_dialog`](https://github.com/fluttercandies/flutter_smart_dialog) An elegant Flutter Dialog solution.
+* [`Flutter-Progress-Dialog`](https://github.com/emreesen27/Flutter-Progress-Dialog) Progress dialog package for Flutter.
 * [`flutter_cool_alert`](https://github.com/emrade/flutter_cool_alert) A Flutter package to display animated alert dialogs.
+* [`giffy_dialog`](https://github.com/xsahil03x/giffy_dialog) A beautiful and custom alert dialog.
 
 [](.)
 
@@ -226,7 +230,6 @@
 * [`timelines`](https://github.com/chulwoo-park/timelines) Powerful & easy to use timeline package for Flutter! 🚀
 * [`flutter-timeline`](https://github.com/softmarshmallow/flutter-timeline) A fully customizable timeline widget, based on real-world application references.
 * [`eva_icons_flutter`](https://github.com/piyushmaurya23/eva_icons_flutter) More than 480 beautifully crafted Open Source icons for common actions and items.
-* [`giffy_dialog`](https://github.com/xsahil03x/giffy_dialog) A beautiful and custom alert dialog.
 * [`folding_cell`](https://github.com/faob-dev/folding_cell) Simple folding cell widget, pass `frontWidget` and `innerWidget` to fold and unfold.
 * [`route_transitions`](https://github.com/pacifio/route_transitions) A flutter library containing useful animations and friendly functions for routing 🚦
 * [`transformer_page_view`](https://github.com/best-flutter/transformer_page_view) PageTransformer for Flutter.
