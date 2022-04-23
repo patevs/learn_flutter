@@ -118,6 +118,7 @@
 * [`generate_pdf_invoice_example`](https://github.com/JohannesMilke/generate_pdf_invoice_example) Create an Invoice PDF Document completely with Flutter and learn how to generate and view this invoice in Flutter.
 * [`layout-demo-flutter`](https://github.com/bizz84/layout-demo-flutter) Super Useful Flutter Layouts - Right in Your Pocket. 😉
 * [`flutter-template`](https://github.com/icapps/flutter-template) A Flutter Template to get started quickly.
+* [`Flutter-Guide`](https://github.com/mikeroyal/Flutter-Guide) A guide covering the Flutter Framework including the applications and tools that will make you a better and more efficient Flutter developer.
 
 [](.)
 
