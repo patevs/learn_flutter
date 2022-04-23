@@ -32,6 +32,7 @@ Release versions of Flutter apps are compiled with [ahead-of-time (AOT) compilat
 │   └── checkUpdates.js  # Check for outdated NPM modules
 ├── docs                 # Documentation
 │   ├── docs.md          # Links and Resources
+│   ├── libs.md          # Libraries, Packages, and Plugins
 │   └── tools.md         # Tools and Utilities
 ├── .editorconfig        # Editor configuration
 ├── .gitignore           # Git ignore rules
