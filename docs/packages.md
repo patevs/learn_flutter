@@ -15,3 +15,11 @@
 * [`fancy_on_boarding`](https://github.com/xsahil03x/fancy_on_boarding) A Fancy OnBoarding Screen Library for Easy and Quick Usage.
 
 ---
+
+## Widgets
+
+### Pickers
+
+* [`flutter_picker`](https://github.com/yangyxd/flutter_picker) Flutter plugin picker. Include `NumberPicker`, `DateTimePicker`, `ArrayPicker`, and default linkage Picker.
+
+---
