@@ -1,6 +1,6 @@
 # Learn Flutter - Documentation
 
-> Packages and Plugins.
+> Libraries, Packages, and Plugins.
 
 ---
 
