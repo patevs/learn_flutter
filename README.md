@@ -18,8 +18,9 @@ Release versions of Flutter apps are compiled with [ahead-of-time (AOT) compilat
 
 ## Documentation
 
-* [Links & Resources](./docs/docs.md)
-* [Tools & Utilities](./docs/tools.md)
+* [Links and Resources](./docs/docs.md)
+* [Libraries, Packages, and Plugins](./docs/libs.md)
+* [Tools and Utilities](./docs/tools.md)
 
 ---
 
