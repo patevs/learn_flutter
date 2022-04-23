@@ -18,6 +18,10 @@
 
 ## Widgets
 
+### Indicators
+
+* [`Flutter-Speedometer`](https://github.com/ltdangkhoa/Flutter-Speedometer) Flutter Speedometer widget.
+
 ### Pickers
 
 * [`flutter_picker`](https://github.com/yangyxd/flutter_picker) Flutter plugin picker. Include `NumberPicker`, `DateTimePicker`, `ArrayPicker`, and default linkage Picker.
