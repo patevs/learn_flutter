@@ -26,6 +26,10 @@
 
 * [`Flutter-Speedometer`](https://github.com/ltdangkhoa/Flutter-Speedometer) Flutter Speedometer widget.
 
+### Menus
+
+* [`kf_drawer`](https://github.com/qqmikey/kf_drawer) Flutter drawer (dynamic ready side menu).
+
 ### Pickers
 
 * [`flutter_picker`](https://github.com/yangyxd/flutter_picker) Flutter plugin picker. Include `NumberPicker`, `DateTimePicker`, `ArrayPicker`, and default linkage Picker.
