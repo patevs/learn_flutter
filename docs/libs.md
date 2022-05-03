@@ -14,6 +14,10 @@
 
 * [`fancy_on_boarding`](https://github.com/xsahil03x/fancy_on_boarding) A Fancy OnBoarding Screen Library for Easy and Quick Usage.
 
+## Miscellaneous
+
+* [`time_planner`](https://github.com/Jamalianpour/time_planner) A beautiful, easy to use and customizable time planner for flutter mobile 📱, desktop 🖥 and web 🌐.
+
 ---
 
 ## Widgets
