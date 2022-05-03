@@ -34,4 +34,8 @@
 
 * [`flutter_picker`](https://github.com/yangyxd/flutter_picker) Flutter plugin picker. Include `NumberPicker`, `DateTimePicker`, `ArrayPicker`, and default linkage Picker.
 
+### Tables
+
+* [`data_table_2`](https://github.com/maxim-saplin/data_table_2) In-place substitute for Flutter's `DataTable` and `PaginatedDataTable` with fixed/sticky header and extra features.
+
 ---
