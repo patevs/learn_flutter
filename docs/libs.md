@@ -22,6 +22,10 @@
 
 ## Widgets
 
+### Alerts
+
+* [`flash`](https://github.com/sososdk/flash) ⚡️A highly customizable, powerful and easy-to-use alerting library for Flutter.
+
 ### Indicators
 
 * [`Flutter-Speedometer`](https://github.com/ltdangkhoa/Flutter-Speedometer) Flutter Speedometer widget.
