@@ -48,6 +48,7 @@
 
 ### Pickers
 
+* [`flutter_calendar_carousel`](https://github.com/dooboolab/flutter_calendar_carousel) Calendar widget for flutter that is swipeable horizontally.
 * [`flutter_date_pickers`](https://github.com/MariaMelnik/flutter_date_pickers) Allows to use date pickers without dialog. Provides some customizable styles for date pickers.
 
 [](.)
