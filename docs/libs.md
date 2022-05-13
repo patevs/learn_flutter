@@ -36,6 +36,10 @@
 
 ### Indicators
 
+* [`loading_overlay`](https://github.com/rodrigobastosv/loading_overlay) Custom loading indicator widget.
+
+[](.)
+
 * [`Flutter-Speedometer`](https://github.com/ltdangkhoa/Flutter-Speedometer) Flutter Speedometer widget.
 
 ### Menus
