@@ -48,6 +48,10 @@
 
 ### Pickers
 
+* [`flutter_date_pickers`](https://github.com/MariaMelnik/flutter_date_pickers) Allows to use date pickers without dialog. Provides some customizable styles for date pickers.
+
+[](.)
+
 * [`flutter_picker`](https://github.com/yangyxd/flutter_picker) Flutter plugin picker. Include `NumberPicker`, `DateTimePicker`, `ArrayPicker`, and default linkage Picker.
 
 ### Tables
