@@ -24,6 +24,7 @@
 
 ## Miscellaneous
 
+* [`plugins`](https://github.com/rodydavis/plugins) Flutter plugins created by Rody Davis.
 * [`time_planner`](https://github.com/Jamalianpour/time_planner) A beautiful, easy to use and customizable time planner for flutter mobile 📱, desktop 🖥 and web 🌐.
 
 ---
