@@ -1,5 +1,5 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
-. "$(dirname "$0")/common.sh"
+. "$(dirname "$0")/common"
 
 yarn commitlint --edit $1
