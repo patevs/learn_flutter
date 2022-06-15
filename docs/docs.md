@@ -143,6 +143,7 @@
 * [`flutter_ui_challenge_flight_search`](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) An advanced UI design implemented in Flutter.
 * [`harmonoid`](https://github.com/harmonoid/harmonoid) 🎵 Elegant music app to play local music & YouTube music.
 * [`inventree-app`](https://github.com/inventree/inventree-app) The InvenTree mobile / tablet application is a companion app for the [InvenTree stock management system](https://github.com/inventree/InvenTree).
+* [`flutter_planets_tutorial`](https://github.com/sergiandreplace/flutter_planets_tutorial) The Flutter Planets app tutorial with commits per lesson.
 
 ---
 
