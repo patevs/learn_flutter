@@ -34,6 +34,7 @@
 
 ### Alerts
 
+* [`awesome_snackbar_content`](https://github.com/mhmzdev/awesome_snackbar_content) A beautiful dart package to uplift your SnackBar experiences in the application.
 * [`flash`](https://github.com/sososdk/flash) ⚡️A highly customizable, powerful and easy-to-use alerting library for Flutter.
 
 ### Indicators
