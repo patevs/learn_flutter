@@ -30,6 +30,12 @@
 
 ---
 
+## Utilities
+
+* [`talker`](https://github.com/Frezyx/talker) Flutter / dart multiplatform advanced exception handling and logging.
+
+---
+
 ## Widgets
 
 ### Alerts
