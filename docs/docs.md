@@ -144,6 +144,7 @@
 * [`harmonoid`](https://github.com/harmonoid/harmonoid) 🎵 Elegant music app to play local music & YouTube music.
 * [`inventree-app`](https://github.com/inventree/inventree-app) The InvenTree mobile / tablet application is a companion app for the [InvenTree stock management system](https://github.com/inventree/InvenTree).
 * [`flutter_planets_tutorial`](https://github.com/sergiandreplace/flutter_planets_tutorial) The Flutter Planets app tutorial with commits per lesson.
+* [`flutter_starter_kit`](https://github.com/KingWu/flutter_starter_kit) A starter kit for beginner learns with Bloc pattern, RxDart, sqflite, Fluro and Dio to architect a Flutter project.
 
 ---
 
