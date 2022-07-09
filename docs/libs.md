@@ -51,6 +51,10 @@
 * [`awesome_snackbar_content`](https://github.com/mhmzdev/awesome_snackbar_content) A beautiful dart package to uplift your SnackBar experiences in the application.
 * [`flash`](https://github.com/sososdk/flash) ⚡️A highly customizable, powerful and easy-to-use alerting library for Flutter.
 
+### Buttons
+
+* [`async_button_builder`](https://github.com/Nolence/async_button_builder) A helper builder to create loading buttons in Flutter.
+
 ### Indicators
 
 * [`loading_overlay`](https://github.com/rodrigobastosv/loading_overlay) Custom loading indicator widget.
