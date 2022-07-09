@@ -37,6 +37,10 @@
 * [`logger`](https://github.com/leisim/logger) Small, easy to use and extensible logger which prints beautiful logs.
 * [`talker`](https://github.com/Frezyx/talker) Flutter / dart multiplatform advanced exception handling and logging.
 
+[](.)
+
+* [`dart-import-sorter`](https://github.com/aziznal/dart-import-sorter) A vscode extension that groups and sorts imports for dart files.
+
 ---
 
 ## User Interface
