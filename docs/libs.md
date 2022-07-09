@@ -39,6 +39,7 @@
 
 [](.)
 
+* [`dart_frog`](https://github.com/VeryGoodOpenSource/dart_frog) A fast, minimalistic backend framework for Dart 🎯
 * [`dart-import-sorter`](https://github.com/aziznal/dart-import-sorter) A vscode extension that groups and sorts imports for dart files.
 
 ---
