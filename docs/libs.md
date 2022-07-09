@@ -33,6 +33,7 @@
 
 ## Utilities
 
+* [`catcher`](https://github.com/jhomlala/catcher) Flutter error catching & handling plugin. Handles and reports exceptions in your app!
 * [`logger`](https://github.com/leisim/logger) Small, easy to use and extensible logger which prints beautiful logs.
 * [`talker`](https://github.com/Frezyx/talker) Flutter / dart multiplatform advanced exception handling and logging.
 
