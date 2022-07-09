@@ -146,6 +146,7 @@
 * [`flutter_planets_tutorial`](https://github.com/sergiandreplace/flutter_planets_tutorial) The Flutter Planets app tutorial with commits per lesson.
 * [`flutter_starter_kit`](https://github.com/KingWu/flutter_starter_kit) A starter kit for beginner learns with Bloc pattern, RxDart, sqflite, Fluro and Dio to architect a Flutter project.
 * [`Taskly`](https://github.com/JobinBiju/Taskly) Flutter app to manage tasks.
+* [`Beer-Me-Up`](https://github.com/benoitletondor/Beer-Me-Up) Personal beer logging that allows you to enter every beer you have to be sure to remember them forever.
 
 ---
 
