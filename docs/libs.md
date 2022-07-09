@@ -41,6 +41,7 @@
 
 * [`dart_frog`](https://github.com/VeryGoodOpenSource/dart_frog) A fast, minimalistic backend framework for Dart 🎯
 * [`dart-import-sorter`](https://github.com/aziznal/dart-import-sorter) A vscode extension that groups and sorts imports for dart files.
+* [`melos`](https://github.com/invertase/melos) 🌋 A tool for managing Dart projects with multiple packages. Supports automated versioning, changelogs & publishing via Conventional Commits.
 * [`pana`](https://github.com/dart-lang/pana) Package ANAlysis for Dart.
 
 ---
