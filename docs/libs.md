@@ -19,6 +19,7 @@
 ## Onboarding
 
 * [`fancy_on_boarding`](https://github.com/xsahil03x/fancy_on_boarding) A Fancy OnBoarding Screen Library for Easy and Quick Usage.
+* [`just_the_tooltip`](https://github.com/Nolence/just_the_tooltip) A directional tooltip for flutter projects.
 
 ---
 
