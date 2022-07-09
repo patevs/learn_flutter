@@ -81,4 +81,8 @@
 
 * [`data_table_2`](https://github.com/maxim-saplin/data_table_2) In-place substitute for Flutter's `DataTable` and `PaginatedDataTable` with fixed/sticky header and extra features.
 
+### User Input
+
+* [`formz`](https://github.com/VeryGoodOpenSource/formz) A unified form representation in Dart. Formz aims to simplify form representation and validation in a generic way.
+
 ---
