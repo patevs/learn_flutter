@@ -93,5 +93,6 @@
 
 * [`formz`](https://github.com/VeryGoodOpenSource/formz) A unified form representation in Dart. Formz aims to simplify form representation and validation in a generic way.
 * [`reactive_forms_widgets`](https://github.com/artflutter/reactive_forms_widgets) Collection of advanced widgets based on Reactive Forms.
+* [`stepper_touch`](https://github.com/Rahiche/stepper_touch) Flutter stepper_touch widget.
 
 ---
