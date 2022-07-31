@@ -26,6 +26,7 @@
 ## Miscellaneous
 
 * [`dart_pos`](https://github.com/xclud/dart_pos) Dart implementation of the ISO-8583 banking protocol.
+* [`in_app_review`](https://github.com/britannio/in_app_review) In-App Review/System Rating pop up on Android, IOS, and MacOS.
 * [`plugins`](https://github.com/rodydavis/plugins) Flutter plugins created by Rody Davis.
 * [`time_planner`](https://github.com/Jamalianpour/time_planner) A beautiful, easy to use and customizable time planner for flutter mobile 📱, desktop 🖥 and web 🌐.
 
