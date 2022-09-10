@@ -49,6 +49,10 @@
 * [`pana`](https://github.com/dart-lang/pana) Package ANAlysis for Dart.
 * [`rad`](https://github.com/erlage/rad) A zero-dependency web framework for creating web apps using Dart.
 
+[](.)
+
+* [`flutter_sqflite_manager`](https://github.com/mcrovero/flutter_sqflite_manager) Visually manage your Flutter Sqflite database.
+
 ---
 
 ## User Interface
