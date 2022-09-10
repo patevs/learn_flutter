@@ -97,6 +97,7 @@
 
 ### Tables
 
+* [`data_tables`](https://github.com/rodydavis/data_tables) Data Tables for Flutter.
 * [`data_table_2`](https://github.com/maxim-saplin/data_table_2) In-place substitute for Flutter's `DataTable` and `PaginatedDataTable` with fixed/sticky header and extra features.
 
 ### Text Fields
