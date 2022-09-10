@@ -15,7 +15,7 @@
   "scripts": {
     "prepare": "husky install",
     "updates": "script-progress node ./bin/checkUpdates",
-    "release": "np"
+    "release": "npx np"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
