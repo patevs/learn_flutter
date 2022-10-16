@@ -75,6 +75,10 @@
 
 * [`async_button_builder`](https://github.com/Nolence/async_button_builder) A helper builder to create loading buttons in Flutter.
 
+### Dialogs
+
+* [`flutter_portal`](https://github.com/fzyzcjy/flutter_portal) Evolved Overlay/OverlayEntry - declarative not imperative, intuitive-context, and easy-alignment.
+
 ### Indicators
 
 * [`loading_overlay`](https://github.com/rodrigobastosv/loading_overlay) Custom loading indicator widget.
