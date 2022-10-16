@@ -84,6 +84,7 @@
 ### Menus
 
 * [`flutter_inner_drawer`](https://github.com/Dn-a/flutter_inner_drawer) Inner Drawer is an easy way to create an internal side section (left/right) where you can insert a list-menu or other.
+* [`flutter-search-bar`](https://github.com/ArcticZeroo/flutter-search-bar) (mostly) Automatic search-enabled `AppBar` for flutter.
 * [`kf_drawer`](https://github.com/qqmikey/kf_drawer) Flutter drawer (dynamic ready side menu).
 
 ### Pickers
