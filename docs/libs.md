@@ -106,6 +106,7 @@
 
 * [`data_tables`](https://github.com/rodydavis/data_tables) Data Tables for Flutter.
 * [`data_table_2`](https://github.com/maxim-saplin/data_table_2) In-place substitute for Flutter's `DataTable` and `PaginatedDataTable` with fixed/sticky header and extra features.
+* [`pluto_grid`](https://github.com/bosskmk/pluto_grid) PlutoGrid is a `DataGrid` for flutter that can be controlled by the keyboard on desktop and web.
 
 ### Text Fields
 
