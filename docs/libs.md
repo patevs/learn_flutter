@@ -26,6 +26,7 @@
 
 ## Miscellaneous
 
+* [`codewithandrea_flutter_packages`](https://github.com/bizz84/codewithandrea_flutter_packages) A collection of packages created to increase code reuse across many of my Flutter projects.
 * [`dart_pos`](https://github.com/xclud/dart_pos) Dart implementation of the ISO-8583 banking protocol.
 * [`in_app_review`](https://github.com/britannio/in_app_review) In-App Review/System Rating pop up on Android, IOS, and MacOS.
 * [`plugins`](https://github.com/rodydavis/plugins) Flutter plugins created by Rody Davis.
