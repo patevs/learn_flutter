@@ -108,6 +108,10 @@
 * [`data_table_2`](https://github.com/maxim-saplin/data_table_2) In-place substitute for Flutter's `DataTable` and `PaginatedDataTable` with fixed/sticky header and extra features.
 * [`pluto_grid`](https://github.com/bosskmk/pluto_grid) PlutoGrid is a `DataGrid` for flutter that can be controlled by the keyboard on desktop and web.
 
+### Text & Rich Content
+
+* [`readmore`](https://github.com/jonataslaw/readmore) A Flutter plugin that allows expanding and collapsing of text dynamically.
+
 ### Text Fields
 
 * [`flutter_typeahead`](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) A TypeAhead widget for Flutter, where you can show suggestions to users as they type.
