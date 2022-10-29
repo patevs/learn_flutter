@@ -35,7 +35,7 @@ Release versions of Flutter apps are compiled with [ahead-of-time (AOT) compilat
 │   ├── docs.md          # Links and Resources
 │   ├── libs.md          # Libraries, Packages, and Plugins
 │   └── tools.md         # Tools and Utilities
-├── .commitlintrc       # Commitlint configuration
+├── .commitlintrc        # Commitlint configuration
 ├── .editorconfig        # Editor configuration
 ├── .gitignore           # Git ignore rules
 ├── .np-config.json      # NPM publish (np) configuration
