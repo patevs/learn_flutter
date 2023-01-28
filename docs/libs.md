@@ -56,6 +56,11 @@
 * [`fresh`](https://github.com/felangel/fresh) 🍋 A token refresh library for Dart.
 * [`r_upgrade`](https://github.com/rhymelph/r_upgrade) Android and IOS upgrade plugin.
 
+---
+
+## Animations
+
+* [`animate_do_package`](https://github.com/Klerith/animate_do_package) An animation package inspired by [Animate.css](https://daneden.github.io/animate.css/)
 
 ---
 
