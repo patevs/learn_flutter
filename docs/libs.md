@@ -65,6 +65,12 @@
 
 ---
 
+## Themes
+
+* [`theme_tailor`](https://github.com/Iteo/theme_tailor) Code generator for Flutter's theme extension classes.
+
+---
+
 ## User Interface
 
 * [`backdrop`](https://github.com/fluttercommunity/backdrop) Backdrop implementation in flutter.
