@@ -82,6 +82,7 @@
 
 * [`backdrop`](https://github.com/fluttercommunity/backdrop) Backdrop implementation in flutter.
 * [`flutter-animated-login`](https://github.com/bahricanyesil/flutter-animated-login) Fully responsive ready-made both login and signup screen with soft and pleasant animations.
+* [`responsive_builder`](https://github.com/FilledStacks/responsive_builder) A set of widgets to make responsive UI building in flutter more readable.
 
 ---
 
