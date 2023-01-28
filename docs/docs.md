@@ -148,7 +148,8 @@
 * [`Taskly`](https://github.com/JobinBiju/Taskly) Flutter app to manage tasks.
 * [`Beer-Me-Up`](https://github.com/benoitletondor/Beer-Me-Up) Personal beer logging that allows you to enter every beer you have to be sure to remember them forever.
 * [`You`](https://github.com/MDSADABWASIM/You) The app checks what the internet knows about you.
-* [`Mediminder`](https://github.com/HossamElghamry/Mediminder)  An Offline Medicine Reminder. Built with Flutter, Provider and BLoC pattern.
+* [`Mediminder`](https://github.com/HossamElghamry/Mediminder) An Offline Medicine Reminder. Built with Flutter, Provider and BLoC pattern.
+* [`flutter_crush`](https://github.com/boeledi/flutter_crush) How to build a Match-3 game, like Candy Crush, Bejeweled, FishDom… in Flutter.
 
 ---
 
