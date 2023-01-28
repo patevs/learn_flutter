@@ -53,7 +53,9 @@
 [](.)
 
 * [`flutter_sqflite_manager`](https://github.com/mcrovero/flutter_sqflite_manager) Visually manage your Flutter Sqflite database.
+* [`fresh`](https://github.com/felangel/fresh) 🍋 A token refresh library for Dart.
 * [`r_upgrade`](https://github.com/rhymelph/r_upgrade) Android and IOS upgrade plugin.
+
 
 ---
 
