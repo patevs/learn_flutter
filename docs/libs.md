@@ -89,6 +89,10 @@
 
 * [`Flutter-Speedometer`](https://github.com/ltdangkhoa/Flutter-Speedometer) Flutter Speedometer widget.
 
+### Lists
+
+* [`grouped_list`](https://github.com/Dimibe/grouped_list) A Flutter ListView in which items can be grouped into sections.
+
 ### Menus
 
 * [`flutter_inner_drawer`](https://github.com/Dn-a/flutter_inner_drawer) Inner Drawer is an easy way to create an internal side section (left/right) where you can insert a list-menu or other.
