@@ -79,5 +79,6 @@
 * [`flutter_ide`](https://github.com/Norbert515/flutter_ide) A visual editor for Flutter widgets.
 * [`widgetbook`](https://github.com/widgetbook/widgetbook) A flutter package which helps developers cataloguing their widgets, testing them quickly on multiple devices and themes, and sharing them easily with designers and clients.
 * [`dashbook`](https://github.com/bluefireteam/dashbook) Development tools to help you building UI on Flutter.
+* [`pubviz`](https://github.com/kevmoo/pubviz) Visualize package dependencies in your Dart project.
 
 ---
