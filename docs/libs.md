@@ -67,6 +67,7 @@
 
 ## Testing
 
+* [`accessibility_tools`](https://github.com/rebelappstudio/accessibility_tools) Checkers and tools to ensure your app is accessible to all.
 * [`build_verify`](https://github.com/kevmoo/build_verify) A Dart package to verify that the build is up-to-date with respect to a git repository.
 
 ---
