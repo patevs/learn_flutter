@@ -65,6 +65,12 @@
 
 ---
 
+## Testing
+
+* [`build_verify`](https://github.com/kevmoo/build_verify) A Dart package to verify that the build is up-to-date with respect to a git repository.
+
+---
+
 ## Themes
 
 * [`flex_color_scheme`](https://github.com/rydmike/flex_color_scheme) A Flutter package to make and use beautiful color scheme based themes.
