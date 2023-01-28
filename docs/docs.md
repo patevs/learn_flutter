@@ -151,6 +151,7 @@
 * [`Mediminder`](https://github.com/HossamElghamry/Mediminder) An Offline Medicine Reminder. Built with Flutter, Provider and BLoC pattern.
 * [`flutter_crush`](https://github.com/boeledi/flutter_crush) How to build a Match-3 game, like Candy Crush, Bejeweled, FishDom… in Flutter.
 * [`flutter_pokedex`](https://github.com/TheAlphamerc/flutter_pokedex) A digital encyclopedia of Pokemon.
+* [`flutter_opentrivia`](https://github.com/lohanidamodar/flutter_opentrivia) A quiz app in flutter using the [open trivia api](https://opentdb.com/).
 
 ---
 
