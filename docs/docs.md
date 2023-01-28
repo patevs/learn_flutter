@@ -119,6 +119,7 @@
 * [`layout-demo-flutter`](https://github.com/bizz84/layout-demo-flutter) Super Useful Flutter Layouts - Right in Your Pocket. 😉
 * [`flutter-template`](https://github.com/icapps/flutter-template) A Flutter Template to get started quickly.
 * [`Flutter-Guide`](https://github.com/mikeroyal/Flutter-Guide) A guide covering the Flutter Framework including the applications and tools that will make you a better and more efficient Flutter developer.
+* [`flutter_ui_kit_obkm`](https://github.com/bukunmialuko/flutter_ui_kit_obkm) 100+ Mobile & Web UI Kit.
 
 [](.)
 
