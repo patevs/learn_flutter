@@ -67,6 +67,7 @@
 
 ## Themes
 
+* [`flex_color_scheme`](https://github.com/rydmike/flex_color_scheme) A Flutter package to make and use beautiful color scheme based themes.
 * [`theme_tailor`](https://github.com/Iteo/theme_tailor) Code generator for Flutter's theme extension classes.
 
 ---
