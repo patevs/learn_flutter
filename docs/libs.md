@@ -49,6 +49,7 @@
 * [`melos`](https://github.com/invertase/melos) 🌋 A tool for managing Dart projects with multiple packages. Supports automated versioning, changelogs & publishing via Conventional Commits.
 * [`pana`](https://github.com/dart-lang/pana) Package ANAlysis for Dart.
 * [`rad`](https://github.com/erlage/rad) A zero-dependency web framework for creating web apps using Dart.
+* [`nylo`](https://github.com/nylo-core/nylo) A micro-framework for Flutter which is designed to help simplify developing apps.
 
 [](.)
 
