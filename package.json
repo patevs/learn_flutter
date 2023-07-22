@@ -18,7 +18,7 @@
     "release": "npx np"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.4.2",
+    "@commitlint/cli": "^17.6.7",
     "chalk": "^5.2.0",
     "commitlint-config-gitmoji": "^2.2.10",
     "husky": "^8.0.3",
